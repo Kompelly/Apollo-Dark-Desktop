@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Price comparison - cart page</name>
+   <tag></tag>
+   <comment>a=&quot; + a
+a1=&quot; + a1
+b=&quot; + b
+b1=&quot; + b1
+total=&quot; + total
+c=&quot; + c
+c1=&quot; + c1</comment>
+   <testCaseGuid>f59e92d1-a744-4eac-99bb-e7f6fa8edc3a</testCaseGuid>
+</TestCaseEntity>

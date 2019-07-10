@@ -1,0 +1,64 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Apollo - dark build,Safari 12,,2019-06-25 14:20:25,2019-06-25 14:46:51,26m - 26.504s,FAILED
+,,,,,,
+Test Cases/COLLECTION PAGE/colour variants,Safari 12,,2019-06-25 14:20:25,2019-06-25 14:21:04,38.474s,PASSED
+,,,,,,
+Test Cases/COLLECTION PAGE/Sort,Safari 12,,2019-06-25 14:21:04,2019-06-25 14:22:28,1m - 24.147s,PASSED
+,,,,,,
+Test Cases/COLLECTION PAGE/Prouducts layout style,Safari 12,,2019-06-25 14:22:28,2019-06-25 14:22:50,22.591s,PASSED
+,,,,,,
+Test Cases/COLLECTION PAGE/Filter,Safari 12,,2019-06-25 14:22:50,2019-06-25 14:25:54,3m - 3.113s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/Store locator,Safari 12,,2019-06-25 14:25:54,2019-06-25 14:26:01,7.288s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/New letter and video CTA,Safari 12,,2019-06-25 14:26:01,2019-06-25 14:26:59,58.057s,FAILED
+,,,,,,
+Test Cases/HOME PAGE/Hero banner - CTA,Safari 12,,2019-06-25 14:26:59,2019-06-25 14:27:42,43.461s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/Burger menu - navigation links,Safari 12,,2019-06-25 14:27:42,2019-06-25 14:29:51,2m - 8.922s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/Featured collection,Safari 12,,2019-06-25 14:29:51,2019-06-25 14:30:22,30.808s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/Footer,Safari 12,,2019-06-25 14:30:22,2019-06-25 14:31:30,1m - 8.238s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/Cart flyout opening,Safari 12,,2019-06-25 14:31:30,2019-06-25 14:31:42,11.724s,FAILED
+,,,,,,
+Test Cases/HOME PAGE/Popular products,Safari 12,,2019-06-25 14:31:42,2019-06-25 14:32:14,31.479s,FAILED
+,,,,,,
+Test Cases/HOME PAGE/Our latest blog posts,Safari 12,,2019-06-25 14:32:14,2019-06-25 14:32:14,0.245s,FAILED
+,,,,,,
+Test Cases/HOME PAGE/Follow us,Safari 12,,2019-06-25 14:32:14,2019-06-25 14:32:31,17.489s,PASSED
+,,,,,,
+Test Cases/PRODUCT PAGE/Social media icons,Safari 12,,2019-06-25 14:32:31,2019-06-25 14:33:21,49.816s,FAILED
+,,,,,,
+Test Cases/PRODUCT PAGE/More payment link and buy with google pay,Safari 12,,2019-06-25 14:33:21,2019-06-25 14:34:41,1m - 19.414s,PASSED
+,,,,,,
+Test Cases/PRODUCT PAGE/Product chevron dropdowns,Safari 12,,2019-06-25 14:34:41,2019-06-25 14:35:42,1m - 1.748s,PASSED
+,,,,,,
+Test Cases/PRODUCT PAGE/You might also like,Safari 12,,2019-06-25 14:35:42,2019-06-25 14:36:51,1m - 8.311s,PASSED
+,,,,,,
+Test Cases/PRODUCT PAGE/Shop all products CTA,Safari 12,,2019-06-25 14:36:51,2019-06-25 14:37:14,23.788s,PASSED
+,,,,,,
+Test Cases/PRODUCT PAGE/Image sliders and chevrons,Safari 12,,2019-06-25 14:37:14,2019-06-25 14:37:59,44.542s,PASSED
+,,,,,,
+Test Cases/CRITICAL PATH/Home page - add to bag CTA,Safari 12,,2019-06-25 14:37:59,2019-06-25 14:38:15,16.209s,FAILED
+,,,,,,
+Test Cases/CRITICAL PATH/Increase quantity - cart page,Safari 12,,2019-06-25 14:38:15,2019-06-25 14:39:35,1m - 20.235s,PASSED
+,,,,,,
+Test Cases/CRITICAL PATH/Increase quantity - Cart flyout,Safari 12,,2019-06-25 14:39:35,2019-06-25 14:40:49,1m - 13.557s,PASSED
+,,,,,,
+Test Cases/CRITICAL PATH/Adding diff prods to cart,Safari 12,,2019-06-25 14:40:49,2019-06-25 14:41:17,28.063s,FAILED
+,,,,,,
+Test Cases/CRITICAL PATH/Price comparison - cart page,Safari 12,,2019-06-25 14:41:17,2019-06-25 14:42:00,42.820s,FAILED
+,,,,,,
+Test Cases/CRITICAL PATH/Decrease quantity - cart page,Safari 12,,2019-06-25 14:42:00,2019-06-25 14:43:33,1m - 33.372s,PASSED
+,,,,,,
+Test Cases/CRITICAL PATH/Adding product - Search flyout,Safari 12,,2019-06-25 14:43:33,2019-06-25 14:44:16,43.022s,FAILED
+,,,,,,
+Test Cases/CRITICAL PATH/Adding product - home page,Safari 12,,2019-06-25 14:44:16,2019-06-25 14:44:20,3.899s,FAILED
+,,,,,,
+Test Cases/CRITICAL PATH/Login and logout,Safari 12,,2019-06-25 14:44:20,2019-06-25 14:44:36,15.438s,PASSED
+,,,,,,
+Test Cases/CRITICAL PATH/Decrease quantity - Cart flyout,Safari 12,,2019-06-25 14:44:36,2019-06-25 14:45:49,1m - 13.888s,PASSED
+,,,,,,
+Test Cases/CRITICAL PATH/Price comparison - Cart flyout,Safari 12,,2019-06-25 14:45:49,2019-06-25 14:46:51,1m - 1.869s,PASSED

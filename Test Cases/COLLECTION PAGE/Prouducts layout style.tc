@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Prouducts layout style</name>
+   <tag></tag>
+   <comment>a=&quot; + a
+b=&quot; + b</comment>
+   <testCaseGuid>d33ed73a-3f47-4fed-8a89-2ecd35215b4d</testCaseGuid>
+</TestCaseEntity>

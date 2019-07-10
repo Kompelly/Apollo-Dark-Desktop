@@ -1,0 +1,1256 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Apollo - dark build,Chrome 75.0.3770.100,,2019-06-25 12:00:03,2019-06-25 12:29:56,29m - 52.771s,FAILED
+,,,,,,
+Test Cases/COLLECTION PAGE/colour variants,Chrome 75.0.3770.100,,2019-06-25 12:00:04,2019-06-25 12:00:34,30.856s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:00:04,2019-06-25 12:00:09,5.513s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:09,2019-06-25 12:00:11,2.018s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:00:11,2019-06-25 12:00:12,0.144s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:12,2019-06-25 12:00:14,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:00:14,2019-06-25 12:00:14,0.074s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:14,2019-06-25 12:00:16,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:00:16,2019-06-25 12:00:16,0.073s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:16,2019-06-25 12:00:18,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:00:18,2019-06-25 12:00:20,2.236s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:00:20,2019-06-25 12:00:20,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:20,2019-06-25 12:00:22,2.002s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:00:22,2019-06-25 12:00:22,0.002s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:22,2019-06-25 12:00:24,2.007s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Collection page/Blue shirt product""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:00:24,2019-06-25 12:00:24,0.061s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:24,2019-06-25 12:00:26,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/color variants/red variant""))",Chrome 75.0.3770.100,,2019-06-25 12:00:26,2019-06-25 12:00:26,0.074s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:26,2019-06-25 12:00:28,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/color variants/Purple variant""))",Chrome 75.0.3770.100,,2019-06-25 12:00:28,2019-06-25 12:00:28,0.071s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:28,2019-06-25 12:00:30,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/color variants/green variant""))",Chrome 75.0.3770.100,,2019-06-25 12:00:30,2019-06-25 12:00:30,0.063s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:30,2019-06-25 12:00:32,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/color variants/Blue variant""))",Chrome 75.0.3770.100,,2019-06-25 12:00:32,2019-06-25 12:00:32,0.058s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:32,2019-06-25 12:00:34,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/color variants/Black variant""))",Chrome 75.0.3770.100,,2019-06-25 12:00:34,2019-06-25 12:00:34,0.081s,PASSED
+,,,,,,
+Test Cases/COLLECTION PAGE/Sort,Chrome 75.0.3770.100,,2019-06-25 12:00:34,2019-06-25 12:02:06,1m - 31.279s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:00:35,2019-06-25 12:00:39,4.665s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:39,2019-06-25 12:00:41,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:00:41,2019-06-25 12:00:41,0.082s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:41,2019-06-25 12:00:43,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:00:43,2019-06-25 12:00:43,0.071s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:43,2019-06-25 12:00:46,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:00:46,2019-06-25 12:00:46,0.061s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:46,2019-06-25 12:00:48,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:00:48,2019-06-25 12:00:49,1.578s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:00:49,2019-06-25 12:00:49,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:49,2019-06-25 12:00:51,2.002s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:00:51,2019-06-25 12:00:51,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:51,2019-06-25 12:00:53,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:00:53,2019-06-25 12:00:53,0.077s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:53,2019-06-25 12:00:55,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Featured""))",Chrome 75.0.3770.100,,2019-06-25 12:00:55,2019-06-25 12:00:55,0.080s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:55,2019-06-25 12:00:57,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:00:57,2019-06-25 12:00:57,0.059s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:00:57,2019-06-25 12:00:59,2.004s,PASSED
+takeScreenshot(),Chrome 75.0.3770.100,,2019-06-25 12:00:59,2019-06-25 12:01:01,1.233s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:01,2019-06-25 12:01:03,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:01:03,2019-06-25 12:01:03,0.043s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:03,2019-06-25 12:01:05,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Best selling""))",Chrome 75.0.3770.100,,2019-06-25 12:01:05,2019-06-25 12:01:05,0.074s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:05,2019-06-25 12:01:07,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:01:07,2019-06-25 12:01:07,0.036s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:07,2019-06-25 12:01:09,2.002s,PASSED
+takeScreenshot(),Chrome 75.0.3770.100,,2019-06-25 12:01:09,2019-06-25 12:01:10,1.144s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:10,2019-06-25 12:01:12,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:01:12,2019-06-25 12:01:12,0.035s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:12,2019-06-25 12:01:14,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Alphabetically A-Z""))",Chrome 75.0.3770.100,,2019-06-25 12:01:14,2019-06-25 12:01:14,0.102s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:14,2019-06-25 12:01:16,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:01:16,2019-06-25 12:01:16,0.043s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:16,2019-06-25 12:01:18,2.002s,PASSED
+takeScreenshot(),Chrome 75.0.3770.100,,2019-06-25 12:01:18,2019-06-25 12:01:19,1.085s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:19,2019-06-25 12:01:21,2.011s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:01:21,2019-06-25 12:01:21,0.038s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:21,2019-06-25 12:01:23,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Alphabetically Z-A""))",Chrome 75.0.3770.100,,2019-06-25 12:01:23,2019-06-25 12:01:23,0.090s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:23,2019-06-25 12:01:25,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:01:25,2019-06-25 12:01:25,0.051s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:25,2019-06-25 12:01:27,2.002s,PASSED
+takeScreenshot(),Chrome 75.0.3770.100,,2019-06-25 12:01:27,2019-06-25 12:01:28,0.982s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:28,2019-06-25 12:01:30,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:01:30,2019-06-25 12:01:30,0.043s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:30,2019-06-25 12:01:32,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Price-Low to high""))",Chrome 75.0.3770.100,,2019-06-25 12:01:32,2019-06-25 12:01:33,0.090s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:33,2019-06-25 12:01:35,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:01:35,2019-06-25 12:01:35,0.040s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:35,2019-06-25 12:01:37,2.004s,PASSED
+takeScreenshot(),Chrome 75.0.3770.100,,2019-06-25 12:01:37,2019-06-25 12:01:37,0.885s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:37,2019-06-25 12:01:39,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:01:39,2019-06-25 12:01:40,0.046s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:40,2019-06-25 12:01:42,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/price-High to low""))",Chrome 75.0.3770.100,,2019-06-25 12:01:42,2019-06-25 12:01:42,0.083s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:42,2019-06-25 12:01:44,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:01:44,2019-06-25 12:01:44,0.040s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:44,2019-06-25 12:01:46,2.002s,PASSED
+takeScreenshot(),Chrome 75.0.3770.100,,2019-06-25 12:01:46,2019-06-25 12:01:46,0.807s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:46,2019-06-25 12:01:48,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:01:48,2019-06-25 12:01:48,0.041s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:48,2019-06-25 12:01:51,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Date - old to new""))",Chrome 75.0.3770.100,,2019-06-25 12:01:51,2019-06-25 12:01:51,0.104s,PASSED
+delay(3),Chrome 75.0.3770.100,,2019-06-25 12:01:51,2019-06-25 12:01:54,3.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:01:54,2019-06-25 12:01:54,0.039s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:54,2019-06-25 12:01:56,2.002s,PASSED
+takeScreenshot(),Chrome 75.0.3770.100,,2019-06-25 12:01:56,2019-06-25 12:01:56,0.699s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:56,2019-06-25 12:01:58,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:01:58,2019-06-25 12:01:58,0.038s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:01:58,2019-06-25 12:02:00,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Date- new to old""))",Chrome 75.0.3770.100,,2019-06-25 12:02:00,2019-06-25 12:02:01,0.139s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:01,2019-06-25 12:02:03,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/sort/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:02:03,2019-06-25 12:02:03,0.042s,PASSED
+takeScreenshot(),Chrome 75.0.3770.100,,2019-06-25 12:02:03,2019-06-25 12:02:04,1.175s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:04,2019-06-25 12:02:06,2.004s,PASSED
+,,,,,,
+Test Cases/COLLECTION PAGE/Prouducts layout style,Chrome 75.0.3770.100,,2019-06-25 12:02:06,2019-06-25 12:02:31,25.423s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:02:06,2019-06-25 12:02:10,3.818s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:10,2019-06-25 12:02:12,2.011s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:02:12,2019-06-25 12:02:12,0.082s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:12,2019-06-25 12:02:14,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:02:14,2019-06-25 12:02:14,0.066s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:14,2019-06-25 12:02:16,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:02:16,2019-06-25 12:02:16,0.082s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:16,2019-06-25 12:02:18,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:02:18,2019-06-25 12:02:19,0.723s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:02:19,2019-06-25 12:02:19,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:19,2019-06-25 12:02:21,2.012s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:02:21,2019-06-25 12:02:21,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:21,2019-06-25 12:02:23,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/layout less""))",Chrome 75.0.3770.100,,2019-06-25 12:02:23,2019-06-25 12:02:24,1.227s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:24,2019-06-25 12:02:26,2.003s,PASSED
+a = getPageHeight(),Chrome 75.0.3770.100,,2019-06-25 12:02:26,2019-06-25 12:02:26,0.026s,PASSED
+"comment(""a="" + a)",Chrome 75.0.3770.100,,2019-06-25 12:02:26,2019-06-25 12:02:26,0.005s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:26,2019-06-25 12:02:28,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/layout more""))",Chrome 75.0.3770.100,,2019-06-25 12:02:28,2019-06-25 12:02:29,1.204s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:29,2019-06-25 12:02:31,2.001s,PASSED
+b = getPageHeight(),Chrome 75.0.3770.100,,2019-06-25 12:02:31,2019-06-25 12:02:31,0.014s,PASSED
+"comment(""b="" + b)",Chrome 75.0.3770.100,,2019-06-25 12:02:31,2019-06-25 12:02:31,0.000s,PASSED
+"verifyLessThan(b, a)",Chrome 75.0.3770.100,,2019-06-25 12:02:31,2019-06-25 12:02:31,0.011s,PASSED
+,,,,,,
+Test Cases/COLLECTION PAGE/Filter,Chrome 75.0.3770.100,,2019-06-25 12:02:31,2019-06-25 12:05:17,2m - 45.942s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:02:31,2019-06-25 12:02:35,3.985s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:35,2019-06-25 12:02:37,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:02:37,2019-06-25 12:02:37,0.076s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:37,2019-06-25 12:02:39,2.012s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:02:39,2019-06-25 12:02:40,0.067s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:40,2019-06-25 12:02:42,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:02:42,2019-06-25 12:02:42,0.076s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:42,2019-06-25 12:02:44,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:02:44,2019-06-25 12:02:44,0.631s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:02:44,2019-06-25 12:02:44,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:44,2019-06-25 12:02:46,2.005s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:02:46,2019-06-25 12:02:46,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:46,2019-06-25 12:02:48,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:02:48,2019-06-25 12:02:48,0.066s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:48,2019-06-25 12:02:50,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Small""))",Chrome 75.0.3770.100,,2019-06-25 12:02:50,2019-06-25 12:02:50,0.061s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:50,2019-06-25 12:02:52,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:02:52,2019-06-25 12:02:52,0.039s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:52,2019-06-25 12:02:54,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:02:54,2019-06-25 12:02:54,0.053s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:54,2019-06-25 12:02:56,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Red""))",Chrome 75.0.3770.100,,2019-06-25 12:02:56,2019-06-25 12:02:57,0.080s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:57,2019-06-25 12:02:59,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:02:59,2019-06-25 12:02:59,0.037s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:02:59,2019-06-25 12:03:01,2.005s,PASSED
+"a = getText(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filtered count""))",Chrome 75.0.3770.100,,2019-06-25 12:03:01,2019-06-25 12:03:01,0.041s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:01,2019-06-25 12:03:03,2.003s,PASSED
+"comment(""a="" + a)",Chrome 75.0.3770.100,,2019-06-25 12:03:03,2019-06-25 12:03:03,0.001s,PASSED
+b = 0,Chrome 75.0.3770.100,,2019-06-25 12:03:03,2019-06-25 12:03:03,0.000s,PASSED
+"verifyNotEqual(""a"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:03:03,2019-06-25 12:03:03,0.006s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:03,2019-06-25 12:03:05,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:03:05,2019-06-25 12:03:05,0.036s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:05,2019-06-25 12:03:07,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Green""))",Chrome 75.0.3770.100,,2019-06-25 12:03:07,2019-06-25 12:03:07,0.071s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:07,2019-06-25 12:03:09,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:03:09,2019-06-25 12:03:09,0.038s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:09,2019-06-25 12:03:11,2.005s,PASSED
+"a1 = getText(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filtered count""))",Chrome 75.0.3770.100,,2019-06-25 12:03:11,2019-06-25 12:03:11,0.020s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:11,2019-06-25 12:03:13,2.003s,PASSED
+"comment(""a1="" + a1)",Chrome 75.0.3770.100,,2019-06-25 12:03:13,2019-06-25 12:03:13,0.001s,PASSED
+"verifyNotEqual(""a1"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:03:13,2019-06-25 12:03:13,0.001s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:13,2019-06-25 12:03:15,2.006s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:15,2019-06-25 12:03:17,2.002s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:17,2019-06-25 12:03:19,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:03:19,2019-06-25 12:03:19,0.036s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:19,2019-06-25 12:03:21,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Blue""))",Chrome 75.0.3770.100,,2019-06-25 12:03:21,2019-06-25 12:03:21,0.078s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:21,2019-06-25 12:03:23,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:03:23,2019-06-25 12:03:23,0.038s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:23,2019-06-25 12:03:25,2.001s,PASSED
+"a2 = getText(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filtered count""))",Chrome 75.0.3770.100,,2019-06-25 12:03:25,2019-06-25 12:03:25,0.022s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:25,2019-06-25 12:03:27,2.002s,PASSED
+"comment(""a2="" + a2)",Chrome 75.0.3770.100,,2019-06-25 12:03:27,2019-06-25 12:03:27,0.001s,PASSED
+"verifyNotEqual(""a2"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:03:27,2019-06-25 12:03:27,0.001s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:27,2019-06-25 12:03:29,2.003s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:29,2019-06-25 12:03:31,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:03:31,2019-06-25 12:03:31,0.039s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:31,2019-06-25 12:03:33,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Purple""))",Chrome 75.0.3770.100,,2019-06-25 12:03:33,2019-06-25 12:03:33,0.088s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:33,2019-06-25 12:03:35,2.002s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:35,2019-06-25 12:03:37,2.001s,PASSED
+"a3 = getText(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filtered count""))",Chrome 75.0.3770.100,,2019-06-25 12:03:37,2019-06-25 12:03:37,0.022s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:37,2019-06-25 12:03:39,2.001s,PASSED
+"comment(""a3="" + a3)",Chrome 75.0.3770.100,,2019-06-25 12:03:39,2019-06-25 12:03:39,0.001s,PASSED
+"verifyNotEqual(""a3"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:03:39,2019-06-25 12:03:39,0.001s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:39,2019-06-25 12:03:41,2.003s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:41,2019-06-25 12:03:43,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:03:43,2019-06-25 12:03:43,0.043s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:43,2019-06-25 12:03:45,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Medium""))",Chrome 75.0.3770.100,,2019-06-25 12:03:45,2019-06-25 12:03:45,0.085s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:45,2019-06-25 12:03:47,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:03:47,2019-06-25 12:03:47,0.034s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:47,2019-06-25 12:03:49,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:03:49,2019-06-25 12:03:49,0.037s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:49,2019-06-25 12:03:51,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Red""))",Chrome 75.0.3770.100,,2019-06-25 12:03:51,2019-06-25 12:03:52,0.063s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:03:52,2019-06-25 12:03:52,0.059s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:52,2019-06-25 12:03:54,2.004s,PASSED
+"a4 = getText(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filtered count""))",Chrome 75.0.3770.100,,2019-06-25 12:03:54,2019-06-25 12:03:54,0.022s,PASSED
+"comment(""a4="" + a4)",Chrome 75.0.3770.100,,2019-06-25 12:03:54,2019-06-25 12:03:54,0.000s,PASSED
+"verifyNotEqual(""a4"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:03:54,2019-06-25 12:03:54,0.000s,PASSED
+delay(4),Chrome 75.0.3770.100,,2019-06-25 12:03:54,2019-06-25 12:03:58,4.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:03:58,2019-06-25 12:03:58,0.036s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:03:58,2019-06-25 12:04:00,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Green""))",Chrome 75.0.3770.100,,2019-06-25 12:04:00,2019-06-25 12:04:00,0.045s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:00,2019-06-25 12:04:02,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:04:02,2019-06-25 12:04:02,0.037s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:02,2019-06-25 12:04:04,2.002s,PASSED
+"a5 = getText(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filtered count""))",Chrome 75.0.3770.100,,2019-06-25 12:04:04,2019-06-25 12:04:04,0.020s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:04,2019-06-25 12:04:06,2.003s,PASSED
+"comment(""a5="" + a5)",Chrome 75.0.3770.100,,2019-06-25 12:04:06,2019-06-25 12:04:06,0.001s,PASSED
+"verifyNotEqual(""a5"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:04:06,2019-06-25 12:04:06,0.001s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:06,2019-06-25 12:04:08,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:04:08,2019-06-25 12:04:08,0.040s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:08,2019-06-25 12:04:10,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Blue""))",Chrome 75.0.3770.100,,2019-06-25 12:04:10,2019-06-25 12:04:10,0.075s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:10,2019-06-25 12:04:12,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:04:12,2019-06-25 12:04:12,0.035s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:12,2019-06-25 12:04:14,2.002s,PASSED
+"a6 = getText(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filtered count""))",Chrome 75.0.3770.100,,2019-06-25 12:04:14,2019-06-25 12:04:14,0.020s,PASSED
+"comment(""a6="" + a6)",Chrome 75.0.3770.100,,2019-06-25 12:04:14,2019-06-25 12:04:14,0.001s,PASSED
+"verifyNotEqual(""a6"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:04:14,2019-06-25 12:04:14,0.000s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:14,2019-06-25 12:04:16,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:04:16,2019-06-25 12:04:16,0.039s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:16,2019-06-25 12:04:18,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Purple""))",Chrome 75.0.3770.100,,2019-06-25 12:04:18,2019-06-25 12:04:18,0.071s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:18,2019-06-25 12:04:20,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:04:20,2019-06-25 12:04:20,0.044s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:20,2019-06-25 12:04:22,2.005s,PASSED
+"a7 = getText(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filtered count""))",Chrome 75.0.3770.100,,2019-06-25 12:04:22,2019-06-25 12:04:22,0.023s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:22,2019-06-25 12:04:24,2.003s,PASSED
+"comment(""a7="" + a7)",Chrome 75.0.3770.100,,2019-06-25 12:04:24,2019-06-25 12:04:24,0.001s,PASSED
+"verifyNotEqual(""a7"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:04:24,2019-06-25 12:04:24,0.001s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:24,2019-06-25 12:04:26,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:04:26,2019-06-25 12:04:26,0.037s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:26,2019-06-25 12:04:28,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Large""))",Chrome 75.0.3770.100,,2019-06-25 12:04:28,2019-06-25 12:04:28,0.080s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:28,2019-06-25 12:04:30,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filter dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:04:30,2019-06-25 12:04:30,0.036s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:30,2019-06-25 12:04:32,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:04:32,2019-06-25 12:04:32,0.034s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:32,2019-06-25 12:04:34,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Red""))",Chrome 75.0.3770.100,,2019-06-25 12:04:34,2019-06-25 12:04:34,0.076s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:34,2019-06-25 12:04:36,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:04:36,2019-06-25 12:04:36,0.036s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:36,2019-06-25 12:04:38,2.003s,PASSED
+"a8 = getText(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filtered count""))",Chrome 75.0.3770.100,,2019-06-25 12:04:38,2019-06-25 12:04:38,0.021s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:38,2019-06-25 12:04:40,2.002s,PASSED
+"comment(""a8="" + a8)",Chrome 75.0.3770.100,,2019-06-25 12:04:40,2019-06-25 12:04:40,0.001s,PASSED
+"verifyNotEqual(""a8"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:04:40,2019-06-25 12:04:40,0.001s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:40,2019-06-25 12:04:42,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:04:42,2019-06-25 12:04:43,0.039s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:43,2019-06-25 12:04:45,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Green""))",Chrome 75.0.3770.100,,2019-06-25 12:04:45,2019-06-25 12:04:45,0.063s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:45,2019-06-25 12:04:47,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:04:47,2019-06-25 12:04:47,0.037s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:47,2019-06-25 12:04:49,2.002s,PASSED
+"a9 = getText(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filtered count""))",Chrome 75.0.3770.100,,2019-06-25 12:04:49,2019-06-25 12:04:49,0.023s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:49,2019-06-25 12:04:51,2.001s,PASSED
+"comment(""a9="" + a9)",Chrome 75.0.3770.100,,2019-06-25 12:04:51,2019-06-25 12:04:51,0.001s,PASSED
+"verifyNotEqual(""a9"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:04:51,2019-06-25 12:04:51,0.000s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:51,2019-06-25 12:04:53,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:04:53,2019-06-25 12:04:53,0.037s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:53,2019-06-25 12:04:55,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Blue""))",Chrome 75.0.3770.100,,2019-06-25 12:04:55,2019-06-25 12:04:55,0.067s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:55,2019-06-25 12:04:57,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:04:57,2019-06-25 12:04:57,0.036s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:57,2019-06-25 12:04:59,2.001s,PASSED
+"a10 = getText(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filtered count""))",Chrome 75.0.3770.100,,2019-06-25 12:04:59,2019-06-25 12:04:59,0.022s,PASSED
+"comment(""a10="" + a10)",Chrome 75.0.3770.100,,2019-06-25 12:04:59,2019-06-25 12:04:59,0.001s,PASSED
+"verifyNotEqual(""a10"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:04:59,2019-06-25 12:04:59,0.000s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:04:59,2019-06-25 12:05:01,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:05:01,2019-06-25 12:05:01,0.033s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:01,2019-06-25 12:05:03,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Purple""))",Chrome 75.0.3770.100,,2019-06-25 12:05:03,2019-06-25 12:05:03,0.056s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:03,2019-06-25 12:05:05,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:05:05,2019-06-25 12:05:05,0.040s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:05,2019-06-25 12:05:07,2.002s,PASSED
+"a11 = getText(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filtered count""))",Chrome 75.0.3770.100,,2019-06-25 12:05:07,2019-06-25 12:05:07,0.020s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:07,2019-06-25 12:05:09,2.004s,PASSED
+"comment(""a11="" + a11)",Chrome 75.0.3770.100,,2019-06-25 12:05:09,2019-06-25 12:05:09,0.000s,PASSED
+"verifyNotEqual(""a11"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:05:09,2019-06-25 12:05:09,0.001s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:09,2019-06-25 12:05:11,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/Color dropdown""))",Chrome 75.0.3770.100,,2019-06-25 12:05:11,2019-06-25 12:05:11,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:11,2019-06-25 12:05:13,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Filter/a_Clear all filters""))",Chrome 75.0.3770.100,,2019-06-25 12:05:13,2019-06-25 12:05:13,0.088s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:13,2019-06-25 12:05:15,2.003s,PASSED
+"a12 = getText(findTestObject(""APOLLO- Desktop/Collection page/Filter/Filtered count""))",Chrome 75.0.3770.100,,2019-06-25 12:05:15,2019-06-25 12:05:15,0.020s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:15,2019-06-25 12:05:17,2.006s,PASSED
+"comment(""a12="" + a12)",Chrome 75.0.3770.100,,2019-06-25 12:05:17,2019-06-25 12:05:17,0.001s,PASSED
+"verifyNotEqual(""a12"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:05:17,2019-06-25 12:05:17,0.001s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/Store locator,Chrome 75.0.3770.100,,2019-06-25 12:05:17,2019-06-25 12:05:26,8.919s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:05:17,2019-06-25 12:05:23,5.438s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:23,2019-06-25 12:05:25,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Map location icon""))",Chrome 75.0.3770.100,,2019-06-25 12:05:25,2019-06-25 12:05:26,1.374s,PASSED
+a = getWindowTitle(),Chrome 75.0.3770.100,,2019-06-25 12:05:26,2019-06-25 12:05:26,0.031s,PASSED
+"comment("" a="" + a)",Chrome 75.0.3770.100,,2019-06-25 12:05:26,2019-06-25 12:05:26,0.001s,PASSED
+"b = ""Our Store – Diff Apollo""",Chrome 75.0.3770.100,,2019-06-25 12:05:26,2019-06-25 12:05:26,0.001s,PASSED
+if (a == b),Chrome 75.0.3770.100,,2019-06-25 12:05:26,2019-06-25 12:05:26,0.000s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/New letter and video CTA,Chrome 75.0.3770.100,,2019-06-25 12:05:26,2019-06-25 12:05:49,23.171s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:05:26,2019-06-25 12:05:30,4.275s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:30,2019-06-25 12:05:32,2.007s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/News letter and CTA/Subscribe to our newsletter""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:05:32,2019-06-25 12:05:32,0.032s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:32,2019-06-25 12:05:34,2.005s,PASSED
+"setText(findTestObject(""APOLLO- Desktop/Home page/News letter and CTA/input_Subscribe to our newsletter""), ""suman@gmail.com"")",Chrome 75.0.3770.100,,2019-06-25 12:05:34,2019-06-25 12:05:35,0.190s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:35,2019-06-25 12:05:37,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/News letter and CTA/button Sign Up""))",Chrome 75.0.3770.100,,2019-06-25 12:05:37,2019-06-25 12:05:40,3.297s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:40,2019-06-25 12:05:42,2.010s,PASSED
+"a = getText(findTestObject(""APOLLO- Desktop/Home page/News letter and CTA/p_Thanks for signing up for ou""))",Chrome 75.0.3770.100,,2019-06-25 12:05:42,2019-06-25 12:05:42,0.001s,NOT_RUN
+"comment(""a="" + a)",Chrome 75.0.3770.100,,2019-06-25 12:05:42,2019-06-25 12:05:42,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:42,2019-06-25 12:05:42,0.001s,NOT_RUN
+"b = ""Thanks for signing up for our newsletter """,Chrome 75.0.3770.100,,2019-06-25 12:05:42,2019-06-25 12:05:42,0.001s,NOT_RUN
+if (a == b),Chrome 75.0.3770.100,,2019-06-25 12:05:42,2019-06-25 12:05:42,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:42,2019-06-25 12:05:44,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/News letter and CTA/start shopping""))",Chrome 75.0.3770.100,,2019-06-25 12:05:44,2019-06-25 12:05:49,5.248s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/Hero banner - CTA,Chrome 75.0.3770.100,,2019-06-25 12:05:49,2019-06-25 12:06:22,32.666s,FAILED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:05:49,2019-06-25 12:05:54,4.207s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:54,2019-06-25 12:05:56,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/First slick slide""))",Chrome 75.0.3770.100,,2019-06-25 12:05:56,2019-06-25 12:05:56,0.093s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:05:56,2019-06-25 12:05:58,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Shop Men button""))",Chrome 75.0.3770.100,,2019-06-25 12:05:58,2019-06-25 12:06:00,2.368s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:00,2019-06-25 12:06:02,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Apollo icon""))",Chrome 75.0.3770.100,,2019-06-25 12:06:02,2019-06-25 12:06:06,3.765s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:06,2019-06-25 12:06:08,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/second slick slide""))",Chrome 75.0.3770.100,,2019-06-25 12:06:08,2019-06-25 12:06:08,0.116s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:08,2019-06-25 12:06:10,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Shop Women button""))",Chrome 75.0.3770.100,,2019-06-25 12:06:10,2019-06-25 12:06:13,2.546s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:13,2019-06-25 12:06:15,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Apollo icon""))",Chrome 75.0.3770.100,,2019-06-25 12:06:15,2019-06-25 12:06:16,1.865s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:16,2019-06-25 12:06:18,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Third slick slide""))",Chrome 75.0.3770.100,,2019-06-25 12:06:18,2019-06-25 12:06:18,0.068s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:18,2019-06-25 12:06:20,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Shop womesn outer wear""))",Chrome 75.0.3770.100,,2019-06-25 12:06:20,2019-06-25 12:06:22,1.442s,FAILED
+,,,,,,
+Test Cases/HOME PAGE/Burger menu - navigation links,Chrome 75.0.3770.100,,2019-06-25 12:06:22,2019-06-25 12:08:14,1m - 51.919s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:06:22,2019-06-25 12:06:26,4.229s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:26,2019-06-25 12:06:28,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:06:28,2019-06-25 12:06:28,0.093s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:28,2019-06-25 12:06:30,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:06:30,2019-06-25 12:06:31,0.086s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:31,2019-06-25 12:06:33,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:06:33,2019-06-25 12:06:33,0.072s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:33,2019-06-25 12:06:35,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:06:35,2019-06-25 12:06:35,0.728s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:35,2019-06-25 12:06:37,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:06:37,2019-06-25 12:06:37,0.065s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:37,2019-06-25 12:06:39,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:06:39,2019-06-25 12:06:40,0.046s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:40,2019-06-25 12:06:42,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:06:42,2019-06-25 12:06:42,0.048s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:42,2019-06-25 12:06:44,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/T- Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:06:44,2019-06-25 12:06:46,2.814s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:46,2019-06-25 12:06:48,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:06:48,2019-06-25 12:06:48,0.067s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:48,2019-06-25 12:06:50,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:06:50,2019-06-25 12:06:51,0.063s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:51,2019-06-25 12:06:53,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:06:53,2019-06-25 12:06:53,0.059s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:53,2019-06-25 12:06:55,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Sweaters""))",Chrome 75.0.3770.100,,2019-06-25 12:06:55,2019-06-25 12:06:57,2.084s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:57,2019-06-25 12:06:59,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:06:59,2019-06-25 12:06:59,0.056s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:06:59,2019-06-25 12:07:01,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Women link""))",Chrome 75.0.3770.100,,2019-06-25 12:07:01,2019-06-25 12:07:01,0.054s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:01,2019-06-25 12:07:03,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Jackets - Coats""))",Chrome 75.0.3770.100,,2019-06-25 12:07:03,2019-06-25 12:07:05,1.948s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:05,2019-06-25 12:07:07,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:07:07,2019-06-25 12:07:07,0.068s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:07,2019-06-25 12:07:09,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Women link""))",Chrome 75.0.3770.100,,2019-06-25 12:07:09,2019-06-25 12:07:09,0.056s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:09,2019-06-25 12:07:11,2.011s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Bottoms""))",Chrome 75.0.3770.100,,2019-06-25 12:07:11,2019-06-25 12:07:13,1.963s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:13,2019-06-25 12:07:15,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:07:15,2019-06-25 12:07:15,0.051s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:15,2019-06-25 12:07:17,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Women link""))",Chrome 75.0.3770.100,,2019-06-25 12:07:17,2019-06-25 12:07:17,0.052s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:17,2019-06-25 12:07:19,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shop all""))",Chrome 75.0.3770.100,,2019-06-25 12:07:19,2019-06-25 12:07:20,1.039s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:20,2019-06-25 12:07:22,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:07:22,2019-06-25 12:07:22,0.054s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:22,2019-06-25 12:07:24,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Women link""))",Chrome 75.0.3770.100,,2019-06-25 12:07:24,2019-06-25 12:07:24,0.057s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:24,2019-06-25 12:07:26,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Women - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:07:26,2019-06-25 12:07:26,0.055s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:26,2019-06-25 12:07:28,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link - women""))",Chrome 75.0.3770.100,,2019-06-25 12:07:28,2019-06-25 12:07:31,2.645s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:31,2019-06-25 12:07:33,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:07:33,2019-06-25 12:07:33,0.049s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:33,2019-06-25 12:07:35,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Women link""))",Chrome 75.0.3770.100,,2019-06-25 12:07:35,2019-06-25 12:07:35,0.059s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:35,2019-06-25 12:07:37,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Women - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:07:37,2019-06-25 12:07:37,0.045s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:37,2019-06-25 12:07:39,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Sweaters - women""))",Chrome 75.0.3770.100,,2019-06-25 12:07:39,2019-06-25 12:07:42,3.433s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:42,2019-06-25 12:07:44,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:07:44,2019-06-25 12:07:45,0.053s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:45,2019-06-25 12:07:47,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/KIds link""))",Chrome 75.0.3770.100,,2019-06-25 12:07:47,2019-06-25 12:07:48,1.394s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:48,2019-06-25 12:07:50,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:07:50,2019-06-25 12:07:50,0.050s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:50,2019-06-25 12:07:52,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/collections""))",Chrome 75.0.3770.100,,2019-06-25 12:07:52,2019-06-25 12:07:53,1.355s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:53,2019-06-25 12:07:55,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:07:55,2019-06-25 12:07:55,0.047s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:55,2019-06-25 12:07:57,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/About""))",Chrome 75.0.3770.100,,2019-06-25 12:07:57,2019-06-25 12:07:59,1.538s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:07:59,2019-06-25 12:08:01,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:08:01,2019-06-25 12:08:01,0.056s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:08:01,2019-06-25 12:08:03,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Blog""))",Chrome 75.0.3770.100,,2019-06-25 12:08:03,2019-06-25 12:08:04,1.232s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:08:04,2019-06-25 12:08:06,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:08:06,2019-06-25 12:08:06,0.054s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:08:06,2019-06-25 12:08:08,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Support""))",Chrome 75.0.3770.100,,2019-06-25 12:08:08,2019-06-25 12:08:09,0.589s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:08:09,2019-06-25 12:08:11,2.011s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:08:11,2019-06-25 12:08:11,0.056s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:08:11,2019-06-25 12:08:13,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Contact us""))",Chrome 75.0.3770.100,,2019-06-25 12:08:13,2019-06-25 12:08:14,0.861s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/Featured collection,Chrome 75.0.3770.100,,2019-06-25 12:08:14,2019-06-25 12:09:11,57.096s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:08:14,2019-06-25 12:08:18,3.783s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:18,2019-06-25 12:08:19,1.006s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Featured collection/Sophisticated and elegant - Tile""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:08:19,2019-06-25 12:08:19,0.027s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:19,2019-06-25 12:08:20,1.008s,PASSED
+"mouseOver(findTestObject(""APOLLO- Desktop/Home page/Featured collection/Sophisticated and elegant - Tile - hover""))",Chrome 75.0.3770.100,,2019-06-25 12:08:20,2019-06-25 12:08:20,0.109s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:20,2019-06-25 12:08:21,1.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Featured collection/shop womens bottoms - button""))",Chrome 75.0.3770.100,,2019-06-25 12:08:21,2019-06-25 12:08:25,3.892s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:25,2019-06-25 12:08:26,1.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Apollo icon""))",Chrome 75.0.3770.100,,2019-06-25 12:08:26,2019-06-25 12:08:27,1.632s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:08:27,2019-06-25 12:08:27,0.002s,NOT_RUN
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:27,2019-06-25 12:08:28,1.009s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Featured collection/Designed for function - Tile""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:08:28,2019-06-25 12:08:28,0.026s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:28,2019-06-25 12:08:29,1.011s,PASSED
+"mouseOver(findTestObject(""APOLLO- Desktop/Home page/Featured collection/Designed for function - Tile - hover""))",Chrome 75.0.3770.100,,2019-06-25 12:08:29,2019-06-25 12:08:30,0.063s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:30,2019-06-25 12:08:31,1.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Featured collection/Shop menss jacket - button""))",Chrome 75.0.3770.100,,2019-06-25 12:08:31,2019-06-25 12:08:36,5.406s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:36,2019-06-25 12:08:37,1.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Apollo icon""))",Chrome 75.0.3770.100,,2019-06-25 12:08:37,2019-06-25 12:08:38,1.476s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:08:38,2019-06-25 12:08:38,0.000s,NOT_RUN
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:38,2019-06-25 12:08:39,1.008s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Featured collection/Sweaters - Tile""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:08:39,2019-06-25 12:08:39,0.028s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:39,2019-06-25 12:08:40,1.006s,PASSED
+"mouseOver(findTestObject(""APOLLO- Desktop/Home page/Featured collection/Sweaters - Tile - hover""))",Chrome 75.0.3770.100,,2019-06-25 12:08:40,2019-06-25 12:08:41,0.053s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:41,2019-06-25 12:08:42,1.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Featured collection/shop womens sweaters - button""))",Chrome 75.0.3770.100,,2019-06-25 12:08:42,2019-06-25 12:08:55,13.542s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:55,2019-06-25 12:08:56,1.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Apollo icon""))",Chrome 75.0.3770.100,,2019-06-25 12:08:56,2019-06-25 12:08:58,1.514s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:08:58,2019-06-25 12:08:58,0.000s,NOT_RUN
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:58,2019-06-25 12:08:59,1.004s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Featured collection/Shirts - Tile""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:08:59,2019-06-25 12:08:59,0.026s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:08:59,2019-06-25 12:09:00,1.011s,PASSED
+"mouseOver(findTestObject(""APOLLO- Desktop/Home page/Featured collection/Shirts - Tile - hover""))",Chrome 75.0.3770.100,,2019-06-25 12:09:00,2019-06-25 12:09:00,0.063s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:09:00,2019-06-25 12:09:01,1.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Featured collection/Shop menss shirt - button""))",Chrome 75.0.3770.100,,2019-06-25 12:09:01,2019-06-25 12:09:03,2.382s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:09:03,2019-06-25 12:09:04,1.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Apollo icon""))",Chrome 75.0.3770.100,,2019-06-25 12:09:04,2019-06-25 12:09:05,1.357s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:09:05,2019-06-25 12:09:05,0.001s,NOT_RUN
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:09:05,2019-06-25 12:09:06,1.006s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/OUTER WEAR - TILES - Copy""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:09:06,2019-06-25 12:09:06,0.030s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:09:06,2019-06-25 12:09:07,1.011s,PASSED
+"mouseOver(findTestObject(""APOLLO- Desktop/Home page/OUTER WEAR - TILES""))",Chrome 75.0.3770.100,,2019-06-25 12:09:07,2019-06-25 12:09:08,0.064s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:09:08,2019-06-25 12:09:09,1.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Shop mens outer wear -button""))",Chrome 75.0.3770.100,,2019-06-25 12:09:09,2019-06-25 12:09:10,1.022s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Apollo icon""))",Chrome 75.0.3770.100,,2019-06-25 12:09:10,2019-06-25 12:09:11,1.351s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/Footer,Chrome 75.0.3770.100,,2019-06-25 12:09:11,2019-06-25 12:12:02,2m - 51.555s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:09:11,2019-06-25 12:09:15,4.203s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:09:15,2019-06-25 12:09:17,2.006s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Footer/Social icons position""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:09:17,2019-06-25 12:09:18,0.037s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:09:18,2019-06-25 12:09:20,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/facebook icon""))",Chrome 75.0.3770.100,,2019-06-25 12:09:20,2019-06-25 12:09:20,0.130s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:09:20,2019-06-25 12:09:22,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/Twitter icon""))",Chrome 75.0.3770.100,,2019-06-25 12:09:22,2019-06-25 12:09:27,5.330s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:09:27,2019-06-25 12:09:29,2.013s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/Instagram icon""))",Chrome 75.0.3770.100,,2019-06-25 12:09:29,2019-06-25 12:09:34,5.120s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:09:34,2019-06-25 12:09:36,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/Pintrest""))",Chrome 75.0.3770.100,,2019-06-25 12:09:36,2019-06-25 12:09:41,5.163s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:09:41,2019-06-25 12:09:43,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/div_Shop""))",Chrome 75.0.3770.100,,2019-06-25 12:09:43,2019-06-25 12:09:49,5.748s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:09:49,2019-06-25 12:09:49,0.001s,NOT_RUN
+delay(4),Chrome 75.0.3770.100,,2019-06-25 12:09:49,2019-06-25 12:09:53,4.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/Shop""))",Chrome 75.0.3770.100,,2019-06-25 12:09:53,2019-06-25 12:10:00,6.502s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:10:00,2019-06-25 12:10:02,2.010s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:10:02,2019-06-25 12:10:02,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:10:02,2019-06-25 12:10:04,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/About""))",Chrome 75.0.3770.100,,2019-06-25 12:10:04,2019-06-25 12:10:09,5.086s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:10:09,2019-06-25 12:10:11,2.002s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:10:11,2019-06-25 12:10:11,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:10:11,2019-06-25 12:10:13,2.011s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/Blog""))",Chrome 75.0.3770.100,,2019-06-25 12:10:13,2019-06-25 12:10:19,6.790s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:10:19,2019-06-25 12:10:21,2.010s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:10:21,2019-06-25 12:10:21,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:10:21,2019-06-25 12:10:23,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/Support""))",Chrome 75.0.3770.100,,2019-06-25 12:10:23,2019-06-25 12:10:29,5.567s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:10:29,2019-06-25 12:10:31,2.008s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:10:31,2019-06-25 12:10:31,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:10:31,2019-06-25 12:10:33,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/a_Contact""))",Chrome 75.0.3770.100,,2019-06-25 12:10:33,2019-06-25 12:10:41,7.484s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:10:41,2019-06-25 12:10:43,2.003s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:10:43,2019-06-25 12:10:43,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:10:43,2019-06-25 12:10:45,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/a_Men""))",Chrome 75.0.3770.100,,2019-06-25 12:10:45,2019-06-25 12:10:50,5.263s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:10:50,2019-06-25 12:10:52,2.008s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:10:52,2019-06-25 12:10:52,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:10:52,2019-06-25 12:10:54,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/a_Women""))",Chrome 75.0.3770.100,,2019-06-25 12:10:54,2019-06-25 12:11:01,7.238s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:11:01,2019-06-25 12:11:03,2.001s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:11:03,2019-06-25 12:11:03,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:11:03,2019-06-25 12:11:05,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/a_Kids""))",Chrome 75.0.3770.100,,2019-06-25 12:11:05,2019-06-25 12:11:11,5.698s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:11:11,2019-06-25 12:11:13,2.009s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:11:13,2019-06-25 12:11:13,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:11:13,2019-06-25 12:11:15,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/a_Collections""))",Chrome 75.0.3770.100,,2019-06-25 12:11:15,2019-06-25 12:11:20,5.674s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:11:20,2019-06-25 12:11:22,2.007s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:11:22,2019-06-25 12:11:22,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:11:22,2019-06-25 12:11:24,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/a_About""))",Chrome 75.0.3770.100,,2019-06-25 12:11:24,2019-06-25 12:11:30,5.099s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:11:30,2019-06-25 12:11:32,2.004s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:11:32,2019-06-25 12:11:32,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:11:32,2019-06-25 12:11:34,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/a_Blog""))",Chrome 75.0.3770.100,,2019-06-25 12:11:34,2019-06-25 12:11:41,7.785s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:11:41,2019-06-25 12:11:43,2.003s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:11:43,2019-06-25 12:11:43,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:11:43,2019-06-25 12:11:45,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/Support""))",Chrome 75.0.3770.100,,2019-06-25 12:11:45,2019-06-25 12:11:51,5.468s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:11:51,2019-06-25 12:11:53,2.008s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:11:53,2019-06-25 12:11:53,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:11:53,2019-06-25 12:11:55,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Footer/a_Contact Us""))",Chrome 75.0.3770.100,,2019-06-25 12:11:55,2019-06-25 12:12:02,7.604s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/Cart flyout opening,Chrome 75.0.3770.100,,2019-06-25 12:12:03,2019-06-25 12:12:16,13.238s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:12:03,2019-06-25 12:12:07,4.222s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:07,2019-06-25 12:12:09,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/cart icon open""))",Chrome 75.0.3770.100,,2019-06-25 12:12:09,2019-06-25 12:12:09,0.097s,PASSED
+"flag = verifyTextPresent(""Your bag"", false)",Chrome 75.0.3770.100,,2019-06-25 12:12:09,2019-06-25 12:12:09,0.522s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:09,2019-06-25 12:12:11,2.011s,PASSED
+"comment(""flag="" + flag)",Chrome 75.0.3770.100,,2019-06-25 12:12:11,2019-06-25 12:12:11,0.001s,PASSED
+if (flag == true),Chrome 75.0.3770.100,,2019-06-25 12:12:11,2019-06-25 12:12:13,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Cart collapse""))",Chrome 75.0.3770.100,,2019-06-25 12:12:13,2019-06-25 12:12:14,0.077s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:14,2019-06-25 12:12:16,2.010s,PASSED
+"flag1 = verifyTextNotPresent(""Your bag"", false)",Chrome 75.0.3770.100,,2019-06-25 12:12:16,2019-06-25 12:12:16,0.207s,PASSED
+"comment(""flag1="" + flag1)",Chrome 75.0.3770.100,,2019-06-25 12:12:16,2019-06-25 12:12:16,0.000s,PASSED
+if (flag1 == true),Chrome 75.0.3770.100,,2019-06-25 12:12:16,2019-06-25 12:12:16,0.001s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/Popular products,Chrome 75.0.3770.100,,2019-06-25 12:12:16,2019-06-25 12:13:09,53.060s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:12:16,2019-06-25 12:12:20,4.548s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:20,2019-06-25 12:12:22,2.010s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Popular products/Popular products tile""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:12:22,2019-06-25 12:12:22,0.044s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:22,2019-06-25 12:12:24,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Popular products/Popular products tile - women slider""))",Chrome 75.0.3770.100,,2019-06-25 12:12:24,2019-06-25 12:12:25,0.069s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:25,2019-06-25 12:12:27,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Popular products/first product- women""))",Chrome 75.0.3770.100,,2019-06-25 12:12:27,2019-06-25 12:12:33,6.779s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:33,2019-06-25 12:12:35,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Apollo icon""))",Chrome 75.0.3770.100,,2019-06-25 12:12:35,2019-06-25 12:12:37,1.496s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:37,2019-06-25 12:12:39,2.003s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Popular products/Popular products tile""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:12:39,2019-06-25 12:12:39,0.026s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:39,2019-06-25 12:12:41,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Popular products/Popular products tile - kids slider""))",Chrome 75.0.3770.100,,2019-06-25 12:12:41,2019-06-25 12:12:41,0.062s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:41,2019-06-25 12:12:43,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Popular products/first product- kids""))",Chrome 75.0.3770.100,,2019-06-25 12:12:43,2019-06-25 12:12:45,1.711s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:45,2019-06-25 12:12:47,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Apollo icon""))",Chrome 75.0.3770.100,,2019-06-25 12:12:47,2019-06-25 12:12:48,1.765s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:48,2019-06-25 12:12:50,2.001s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:12:50,2019-06-25 12:12:50,0.001s,NOT_RUN
+"click(findTestObject(""APOLLO- Desktop/Home page/Popular products/Popular products tile - men slider""))",Chrome 75.0.3770.100,,2019-06-25 12:12:50,2019-06-25 12:12:51,0.166s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:51,2019-06-25 12:12:53,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Popular products/first product- men""))",Chrome 75.0.3770.100,,2019-06-25 12:12:53,2019-06-25 12:12:55,2.493s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:55,2019-06-25 12:12:57,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Apollo icon""))",Chrome 75.0.3770.100,,2019-06-25 12:12:57,2019-06-25 12:12:58,1.427s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:12:58,2019-06-25 12:13:00,2.007s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:13:00,2019-06-25 12:13:01,0.001s,NOT_RUN
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Popular products/Popular products tile""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:13:01,2019-06-25 12:13:01,0.030s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:01,2019-06-25 12:13:03,2.009s,PASSED
+"mouseOver(findTestObject(""APOLLO- Desktop/Home page/Popular products/Previous button chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:13:03,2019-06-25 12:13:03,0.060s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:03,2019-06-25 12:13:05,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Popular products/Previous button chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:13:05,2019-06-25 12:13:05,0.067s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:05,2019-06-25 12:13:07,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Popular products/Previous button chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:13:07,2019-06-25 12:13:07,0.054s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:07,2019-06-25 12:13:09,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Popular products/Next button chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:13:09,2019-06-25 12:13:09,0.069s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/Our latest blog posts,Chrome 75.0.3770.100,,2019-06-25 12:13:09,2019-06-25 12:13:44,35.109s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:13:09,2019-06-25 12:13:13,3.850s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:13,2019-06-25 12:13:15,2.010s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Our latest blog posts/Our latest Blog posts""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:13:15,2019-06-25 12:13:15,0.036s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:15,2019-06-25 12:13:17,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Our latest blog posts/second slider""))",Chrome 75.0.3770.100,,2019-06-25 12:13:17,2019-06-25 12:13:17,0.067s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:17,2019-06-25 12:13:19,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Our latest blog posts/third slider""))",Chrome 75.0.3770.100,,2019-06-25 12:13:19,2019-06-25 12:13:19,0.089s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:19,2019-06-25 12:13:21,2.019s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Our latest blog posts/first slider""))",Chrome 75.0.3770.100,,2019-06-25 12:13:21,2019-06-25 12:13:21,0.062s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:21,2019-06-25 12:13:23,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Our latest blog posts/Visit Blog""))",Chrome 75.0.3770.100,,2019-06-25 12:13:23,2019-06-25 12:13:24,0.626s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:24,2019-06-25 12:13:26,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Apollo icon""))",Chrome 75.0.3770.100,,2019-06-25 12:13:26,2019-06-25 12:13:27,1.364s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:27,2019-06-25 12:13:29,2.008s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Our latest blog posts/Our latest Blog posts""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:13:29,2019-06-25 12:13:29,0.028s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:29,2019-06-25 12:13:31,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Our latest blog posts/Read more link""))",Chrome 75.0.3770.100,,2019-06-25 12:13:31,2019-06-25 12:13:32,0.869s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:32,2019-06-25 12:13:34,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Hero banner - CTA/Apollo icon""))",Chrome 75.0.3770.100,,2019-06-25 12:13:34,2019-06-25 12:13:36,1.680s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:36,2019-06-25 12:13:38,2.001s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Our latest blog posts/Our latest Blog posts""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:13:38,2019-06-25 12:13:38,0.031s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:38,2019-06-25 12:13:40,2.010s,PASSED
+"mouseOver(findTestObject(""APOLLO- Desktop/Home page/Our latest blog posts/button_Next""))",Chrome 75.0.3770.100,,2019-06-25 12:13:40,2019-06-25 12:13:40,0.044s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:40,2019-06-25 12:13:42,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Our latest blog posts/button_Next""))",Chrome 75.0.3770.100,,2019-06-25 12:13:42,2019-06-25 12:13:42,0.062s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:42,2019-06-25 12:13:44,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Our latest blog posts/button_Previous""))",Chrome 75.0.3770.100,,2019-06-25 12:13:44,2019-06-25 12:13:44,0.061s,PASSED
+,,,,,,
+Test Cases/HOME PAGE/Follow us,Chrome 75.0.3770.100,,2019-06-25 12:13:44,2019-06-25 12:14:26,41.827s,FAILED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:13:44,2019-06-25 12:13:48,3.997s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:48,2019-06-25 12:13:50,2.010s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Follow us/apollodarktheme""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:13:50,2019-06-25 12:13:50,0.033s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:50,2019-06-25 12:13:52,2.010s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Our latest blog posts/Visit Blog""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:13:52,2019-06-25 12:13:52,0.027s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:13:52,2019-06-25 12:13:54,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Follow us/product tile""))",Chrome 75.0.3770.100,,2019-06-25 12:13:54,2019-06-25 12:13:54,0.123s,PASSED
+back(),Chrome 75.0.3770.100,,2019-06-25 12:13:54,2019-06-25 12:13:54,0.160s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/Follow us/apollodarktheme""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:13:54,2019-06-25 12:14:26,31.356s,FAILED
+,,,,,,
+Test Cases/PRODUCT PAGE/Social media icons,Chrome 75.0.3770.100,,2019-06-25 12:14:26,2019-06-25 12:15:20,53.837s,FAILED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:14:26,2019-06-25 12:14:31,4.716s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:14:31,2019-06-25 12:14:33,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:14:33,2019-06-25 12:14:33,0.082s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:14:33,2019-06-25 12:14:35,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:14:35,2019-06-25 12:14:35,0.066s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:14:35,2019-06-25 12:14:37,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:14:37,2019-06-25 12:14:37,0.075s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:14:37,2019-06-25 12:14:39,2.011s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:14:39,2019-06-25 12:14:41,1.750s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:14:41,2019-06-25 12:14:41,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:14:41,2019-06-25 12:14:43,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Blue shirt product""))",Chrome 75.0.3770.100,,2019-06-25 12:14:43,2019-06-25 12:14:44,1.251s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:14:44,2019-06-25 12:14:46,2.003s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:14:46,2019-06-25 12:14:46,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:14:46,2019-06-25 12:14:48,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/facebook icon""))",Chrome 75.0.3770.100,,2019-06-25 12:14:48,2019-06-25 12:15:20,31.781s,FAILED
+,,,,,,
+Test Cases/PRODUCT PAGE/More payment link and buy with google pay,Chrome 75.0.3770.100,,2019-06-25 12:15:20,2019-06-25 12:16:23,1m - 3.789s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:15:20,2019-06-25 12:15:23,3.765s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:15:23,2019-06-25 12:15:25,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:15:25,2019-06-25 12:15:26,0.082s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:15:26,2019-06-25 12:15:28,2.020s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:15:28,2019-06-25 12:15:28,0.062s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:15:28,2019-06-25 12:15:30,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:15:30,2019-06-25 12:15:30,0.087s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:15:30,2019-06-25 12:15:32,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:15:32,2019-06-25 12:15:33,1.010s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:15:33,2019-06-25 12:15:33,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:15:33,2019-06-25 12:15:35,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Blue shirt product""))",Chrome 75.0.3770.100,,2019-06-25 12:15:35,2019-06-25 12:15:36,1.295s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:15:36,2019-06-25 12:15:38,2.009s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:15:38,2019-06-25 12:15:38,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:15:38,2019-06-25 12:15:40,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/More payment options""))",Chrome 75.0.3770.100,,2019-06-25 12:15:40,2019-06-25 12:15:40,0.104s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:15:40,2019-06-25 12:15:42,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Checkout- more payment""))",Chrome 75.0.3770.100,,2019-06-25 12:15:42,2019-06-25 12:15:44,1.513s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:15:44,2019-06-25 12:15:46,2.003s,PASSED
+"callTestCase(findTestCase(""CALL- CUSTOMER INFO PAGE""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:15:46,2019-06-25 12:15:59,13.675s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:15:59,2019-06-25 12:16:01,2.004s,PASSED
+"callTestCase(findTestCase(""CALL - SHIPPING TO PAYMENT""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:16:01,2019-06-25 12:16:08,7.124s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:08,2019-06-25 12:16:10,2.005s,PASSED
+"navigateToUrl(""https://diff-apollo.myshopify.com/collections/mens-shirts/products/striped-t-shirt?variant=20036806639716"")",Chrome 75.0.3770.100,,2019-06-25 12:16:10,2019-06-25 12:16:19,8.594s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:19,2019-06-25 12:16:21,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Buy with google pay""))",Chrome 75.0.3770.100,,2019-06-25 12:16:21,2019-06-25 12:16:21,0.310s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:21,2019-06-25 12:16:23,2.004s,PASSED
+,,,,,,
+Test Cases/PRODUCT PAGE/Product chevron dropdowns,Chrome 75.0.3770.100,,2019-06-25 12:16:23,2019-06-25 12:17:26,1m - 2.605s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:16:23,2019-06-25 12:16:27,3.941s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:27,2019-06-25 12:16:29,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:16:29,2019-06-25 12:16:29,0.088s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:29,2019-06-25 12:16:31,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:16:31,2019-06-25 12:16:32,0.068s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:32,2019-06-25 12:16:34,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:16:34,2019-06-25 12:16:34,0.062s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:34,2019-06-25 12:16:36,2.013s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:16:36,2019-06-25 12:16:37,1.349s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:16:37,2019-06-25 12:16:37,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:37,2019-06-25 12:16:39,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Blue shirt product""))",Chrome 75.0.3770.100,,2019-06-25 12:16:39,2019-06-25 12:16:40,1.358s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:40,2019-06-25 12:16:42,2.001s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:16:42,2019-06-25 12:16:42,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:42,2019-06-25 12:16:44,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Details chevron open""))",Chrome 75.0.3770.100,,2019-06-25 12:16:44,2019-06-25 12:16:44,0.098s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:44,2019-06-25 12:16:46,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Details chevron close""))",Chrome 75.0.3770.100,,2019-06-25 12:16:46,2019-06-25 12:16:47,0.043s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:47,2019-06-25 12:16:49,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Type chevron open""))",Chrome 75.0.3770.100,,2019-06-25 12:16:49,2019-06-25 12:16:49,0.072s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:49,2019-06-25 12:16:51,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Type chevron close""))",Chrome 75.0.3770.100,,2019-06-25 12:16:51,2019-06-25 12:16:51,0.040s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:51,2019-06-25 12:16:53,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Brand chevron open""))",Chrome 75.0.3770.100,,2019-06-25 12:16:53,2019-06-25 12:16:53,0.064s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:53,2019-06-25 12:16:55,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Brand chevron close""))",Chrome 75.0.3770.100,,2019-06-25 12:16:55,2019-06-25 12:16:55,0.037s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:55,2019-06-25 12:16:57,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Shipping chevron open""))",Chrome 75.0.3770.100,,2019-06-25 12:16:57,2019-06-25 12:16:57,0.064s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:57,2019-06-25 12:16:59,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Shipping chevron close""))",Chrome 75.0.3770.100,,2019-06-25 12:16:59,2019-06-25 12:16:59,0.044s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:16:59,2019-06-25 12:17:01,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/reviews chevron open""))",Chrome 75.0.3770.100,,2019-06-25 12:17:01,2019-06-25 12:17:01,0.071s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:01,2019-06-25 12:17:03,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/reviews chevron close""))",Chrome 75.0.3770.100,,2019-06-25 12:17:03,2019-06-25 12:17:03,0.055s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:03,2019-06-25 12:17:05,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/reviews chevron open""))",Chrome 75.0.3770.100,,2019-06-25 12:17:05,2019-06-25 12:17:05,0.045s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:05,2019-06-25 12:17:07,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/a_Write a review""))",Chrome 75.0.3770.100,,2019-06-25 12:17:07,2019-06-25 12:17:07,0.076s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:07,2019-06-25 12:17:09,2.005s,PASSED
+"setText(findTestObject(""APOLLO- Desktop/Product page/input_Name_reviewauthor""), ""suman"")",Chrome 75.0.3770.100,,2019-06-25 12:17:09,2019-06-25 12:17:09,0.122s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:09,2019-06-25 12:17:11,2.003s,PASSED
+"setText(findTestObject(""APOLLO- Desktop/Product page/input_Email_reviewemail""), ""`suman@gmail.com"", STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:17:11,2019-06-25 12:17:11,0.129s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:11,2019-06-25 12:17:13,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Stars review""))",Chrome 75.0.3770.100,,2019-06-25 12:17:13,2019-06-25 12:17:13,0.086s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:13,2019-06-25 12:17:15,2.002s,PASSED
+"setText(findTestObject(""APOLLO- Desktop/Product page/input_Review Title_reviewtitle""), ""Nice product"")",Chrome 75.0.3770.100,,2019-06-25 12:17:15,2019-06-25 12:17:16,0.112s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:16,2019-06-25 12:17:18,2.006s,PASSED
+"setText(findTestObject(""APOLLO- Desktop/Product page/textarea_characters remaining_""), ""Good product"")",Chrome 75.0.3770.100,,2019-06-25 12:17:18,2019-06-25 12:17:18,0.122s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:18,2019-06-25 12:17:20,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Submit review""))",Chrome 75.0.3770.100,,2019-06-25 12:17:20,2019-06-25 12:17:20,0.068s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:20,2019-06-25 12:17:22,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/number-2""), CONTINUE_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:17:22,2019-06-25 12:17:22,0.084s,PASSED
+"delay(2, CONTINUE_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:17:22,2019-06-25 12:17:24,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/a_Next""), CONTINUE_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:17:24,2019-06-25 12:17:24,0.072s,PASSED
+"delay(2, CONTINUE_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:17:24,2019-06-25 12:17:26,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/a_ Previous""), CONTINUE_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:17:26,2019-06-25 12:17:26,0.063s,PASSED
+,,,,,,
+Test Cases/PRODUCT PAGE/You might also like,Chrome 75.0.3770.100,,2019-06-25 12:17:26,2019-06-25 12:18:32,1m - 6.476s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:17:26,2019-06-25 12:17:31,4.446s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:31,2019-06-25 12:17:33,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:17:33,2019-06-25 12:17:33,0.071s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:33,2019-06-25 12:17:35,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:17:35,2019-06-25 12:17:35,0.056s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:35,2019-06-25 12:17:37,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:17:37,2019-06-25 12:17:37,0.065s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:37,2019-06-25 12:17:39,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:17:39,2019-06-25 12:17:43,3.780s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:17:43,2019-06-25 12:17:43,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:43,2019-06-25 12:17:45,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Blue shirt product""))",Chrome 75.0.3770.100,,2019-06-25 12:17:45,2019-06-25 12:17:47,2.331s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:47,2019-06-25 12:17:49,2.005s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:17:49,2019-06-25 12:17:49,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:49,2019-06-25 12:17:51,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/You might alos like/you might also like""))",Chrome 75.0.3770.100,,2019-06-25 12:17:51,2019-06-25 12:17:51,0.060s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:51,2019-06-25 12:17:53,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/You might alos like/Next button""))",Chrome 75.0.3770.100,,2019-06-25 12:17:53,2019-06-25 12:17:53,0.067s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:53,2019-06-25 12:17:55,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/You might alos like/Previous button""))",Chrome 75.0.3770.100,,2019-06-25 12:17:55,2019-06-25 12:17:55,0.058s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:17:55,2019-06-25 12:17:57,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/You might alos like/Product tile""))",Chrome 75.0.3770.100,,2019-06-25 12:17:57,2019-06-25 12:18:03,5.488s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:18:03,2019-06-25 12:18:05,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:18:05,2019-06-25 12:18:05,0.058s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:18:05,2019-06-25 12:18:07,2.001s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:18:07,2019-06-25 12:18:07,0.000s,NOT_RUN
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Checkout""))",Chrome 75.0.3770.100,,2019-06-25 12:18:07,2019-06-25 12:18:12,4.889s,PASSED
+"callTestCase(findTestCase(""CALL- CUSTOMER INFO PAGE""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:18:12,2019-06-25 12:18:25,13.142s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:18:25,2019-06-25 12:18:27,2.005s,PASSED
+"callTestCase(findTestCase(""CALL - SHIPPING TO PAYMENT""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:18:27,2019-06-25 12:18:32,5.795s,PASSED
+,,,,,,
+Test Cases/PRODUCT PAGE/Shop all products CTA,Chrome 75.0.3770.100,,2019-06-25 12:18:32,2019-06-25 12:18:56,23.532s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:18:33,2019-06-25 12:18:38,5.108s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:18:38,2019-06-25 12:18:40,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:18:40,2019-06-25 12:18:40,0.074s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:18:40,2019-06-25 12:18:42,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:18:42,2019-06-25 12:18:42,0.059s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:18:42,2019-06-25 12:18:44,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:18:44,2019-06-25 12:18:44,0.064s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:18:44,2019-06-25 12:18:46,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:18:46,2019-06-25 12:18:47,1.352s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:18:47,2019-06-25 12:18:47,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:18:47,2019-06-25 12:18:49,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Blue shirt product""))",Chrome 75.0.3770.100,,2019-06-25 12:18:49,2019-06-25 12:18:50,1.130s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:18:50,2019-06-25 12:18:52,2.002s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:18:52,2019-06-25 12:18:52,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:18:52,2019-06-25 12:18:54,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/a_Shop all products""))",Chrome 75.0.3770.100,,2019-06-25 12:18:54,2019-06-25 12:18:56,1.635s,PASSED
+a = getWindowTitle(),Chrome 75.0.3770.100,,2019-06-25 12:18:56,2019-06-25 12:18:56,0.015s,PASSED
+"comment("" a="" + a)",Chrome 75.0.3770.100,,2019-06-25 12:18:56,2019-06-25 12:18:56,0.000s,PASSED
+"b = ""Products – Diff Apollo""",Chrome 75.0.3770.100,,2019-06-25 12:18:56,2019-06-25 12:18:56,0.001s,PASSED
+if (a == b),Chrome 75.0.3770.100,,2019-06-25 12:18:56,2019-06-25 12:18:56,0.000s,PASSED
+,,,,,,
+Test Cases/PRODUCT PAGE/Image sliders and chevrons,Chrome 75.0.3770.100,,2019-06-25 12:18:56,2019-06-25 12:19:44,47.499s,FAILED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:18:56,2019-06-25 12:19:00,4.216s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:19:00,2019-06-25 12:19:02,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:19:02,2019-06-25 12:19:02,0.083s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:19:02,2019-06-25 12:19:04,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:19:04,2019-06-25 12:19:05,0.075s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:19:05,2019-06-25 12:19:07,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:19:07,2019-06-25 12:19:07,0.060s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:19:07,2019-06-25 12:19:09,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:19:09,2019-06-25 12:19:10,1.009s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:19:10,2019-06-25 12:19:10,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:19:10,2019-06-25 12:19:12,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Striped T-shirt""))",Chrome 75.0.3770.100,,2019-06-25 12:19:12,2019-06-25 12:19:44,31.867s,FAILED
+,,,,,,
+Test Cases/CRITICAL PATH/Home page - add to bag CTA,Chrome 75.0.3770.100,,2019-06-25 12:19:44,2019-06-25 12:20:33,49.753s,FAILED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:19:44,2019-06-25 12:19:47,3.761s,PASSED
+"flag = verifyElementClickable(findTestObject(""APOLLO- Desktop/Home page/Navy variant""))",Chrome 75.0.3770.100,,2019-06-25 12:19:47,2019-06-25 12:19:47,0.062s,PASSED
+"comment(""flag="" + flag)",Chrome 75.0.3770.100,,2019-06-25 12:19:47,2019-06-25 12:19:47,0.001s,PASSED
+if (flag == true),Chrome 75.0.3770.100,,2019-06-25 12:19:47,2019-06-25 12:19:49,1.318s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:19:49,2019-06-25 12:19:51,2.012s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Cart collapse""))",Chrome 75.0.3770.100,,2019-06-25 12:19:51,2019-06-25 12:19:51,0.061s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:19:51,2019-06-25 12:19:52,1.000s,PASSED
+"flag1 = verifyElementClickable(findTestObject(""APOLLO- Desktop/Home page/Grey variant""))",Chrome 75.0.3770.100,,2019-06-25 12:19:52,2019-06-25 12:19:52,0.027s,PASSED
+"comment(""flag1="" + flag1)",Chrome 75.0.3770.100,,2019-06-25 12:19:52,2019-06-25 12:19:52,0.000s,PASSED
+if (flag1 == true),Chrome 75.0.3770.100,,2019-06-25 12:19:52,2019-06-25 12:19:53,1.173s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:19:53,2019-06-25 12:19:55,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Cart collapse""))",Chrome 75.0.3770.100,,2019-06-25 12:19:55,2019-06-25 12:19:55,0.058s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:19:55,2019-06-25 12:19:56,1.001s,PASSED
+"flag2 = verifyElementClickable(findTestObject(""APOLLO- Desktop/Home page/White variant""))",Chrome 75.0.3770.100,,2019-06-25 12:19:56,2019-06-25 12:19:56,0.028s,PASSED
+"comment(""flag2="" + flag2)",Chrome 75.0.3770.100,,2019-06-25 12:19:56,2019-06-25 12:19:56,0.000s,PASSED
+if (flag2 == true),Chrome 75.0.3770.100,,2019-06-25 12:19:56,2019-06-25 12:19:57,1.147s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:19:57,2019-06-25 12:19:59,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Cart collapse""))",Chrome 75.0.3770.100,,2019-06-25 12:19:59,2019-06-25 12:19:59,0.054s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:19:59,2019-06-25 12:20:00,1.002s,PASSED
+"flag3 = verifyElementClickable(findTestObject(""APOLLO- Desktop/Home page/Black variant""))",Chrome 75.0.3770.100,,2019-06-25 12:20:00,2019-06-25 12:20:00,0.029s,PASSED
+"comment(""flag3="" + flag3)",Chrome 75.0.3770.100,,2019-06-25 12:20:00,2019-06-25 12:20:00,0.000s,PASSED
+if (flag3 == true),Chrome 75.0.3770.100,,2019-06-25 12:20:00,2019-06-25 12:20:02,1.913s,FAILED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:20:02,2019-06-25 12:20:04,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/cart icon open""))",Chrome 75.0.3770.100,,2019-06-25 12:20:04,2019-06-25 12:20:04,0.093s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:20:04,2019-06-25 12:20:06,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Checkout""))",Chrome 75.0.3770.100,,2019-06-25 12:20:06,2019-06-25 12:20:10,4.076s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:20:10,2019-06-25 12:20:12,2.002s,PASSED
+"callTestCase(findTestCase(""CALL- CUSTOMER INFO PAGE""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:20:12,2019-06-25 12:20:26,13.206s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:20:26,2019-06-25 12:20:28,2.003s,PASSED
+"callTestCase(findTestCase(""CALL - SHIPPING TO PAYMENT""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:20:28,2019-06-25 12:20:33,5.640s,FAILED
+,,,,,,
+Test Cases/CRITICAL PATH/Increase quantity - cart page,Chrome 75.0.3770.100,,2019-06-25 12:20:33,2019-06-25 12:21:44,1m - 10.750s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:20:33,2019-06-25 12:20:37,3.890s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:20:37,2019-06-25 12:20:38,1.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:20:38,2019-06-25 12:20:38,0.075s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:20:38,2019-06-25 12:20:40,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:20:40,2019-06-25 12:20:40,0.059s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:20:40,2019-06-25 12:20:42,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:20:42,2019-06-25 12:20:43,0.065s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:20:43,2019-06-25 12:20:45,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:20:45,2019-06-25 12:20:46,1.042s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:20:46,2019-06-25 12:20:46,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:20:46,2019-06-25 12:20:48,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Blue shirt product""))",Chrome 75.0.3770.100,,2019-06-25 12:20:48,2019-06-25 12:20:49,1.140s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:20:49,2019-06-25 12:20:51,2.011s,PASSED
+"selectOptionByValue(findTestObject(""APOLLO- Desktop/Product page/Size dropdown""), ""Medium"", true)",Chrome 75.0.3770.100,,2019-06-25 12:20:51,2019-06-25 12:20:51,0.129s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:20:51,2019-06-25 12:20:53,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:20:53,2019-06-25 12:20:53,0.057s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:20:53,2019-06-25 12:20:55,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Checkout""))",Chrome 75.0.3770.100,,2019-06-25 12:20:55,2019-06-25 12:20:56,1.574s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:20:56,2019-06-25 12:20:58,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Customer Information page/Cart page breadcrumb""))",Chrome 75.0.3770.100,,2019-06-25 12:20:58,2019-06-25 12:21:01,2.347s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:01,2019-06-25 12:21:03,2.001s,PASSED
+"a = getText(findTestObject(""APOLLO- Desktop/Cart page/Subtotal in cart page""))",Chrome 75.0.3770.100,,2019-06-25 12:21:03,2019-06-25 12:21:03,0.033s,PASSED
+"comment(""a="" + a)",Chrome 75.0.3770.100,,2019-06-25 12:21:03,2019-06-25 12:21:03,0.000s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:03,2019-06-25 12:21:05,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart page/Increase quantity - cart page""))",Chrome 75.0.3770.100,,2019-06-25 12:21:05,2019-06-25 12:21:05,0.056s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:05,2019-06-25 12:21:07,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart page/Increase quantity - cart page""))",Chrome 75.0.3770.100,,2019-06-25 12:21:07,2019-06-25 12:21:07,0.041s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:07,2019-06-25 12:21:09,2.001s,PASSED
+"setText(findTestObject(""APOLLO- Desktop/Cart flyout/CArt quanty update""), ""3"")",Chrome 75.0.3770.100,,2019-06-25 12:21:09,2019-06-25 12:21:09,0.114s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:09,2019-06-25 12:21:11,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart page/Click outside the page""))",Chrome 75.0.3770.100,,2019-06-25 12:21:11,2019-06-25 12:21:11,0.063s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:11,2019-06-25 12:21:13,2.003s,PASSED
+"b = getText(findTestObject(""APOLLO- Desktop/Cart page/Subtotal in cart page""))",Chrome 75.0.3770.100,,2019-06-25 12:21:13,2019-06-25 12:21:13,0.029s,PASSED
+"comment(""b="" + b)",Chrome 75.0.3770.100,,2019-06-25 12:21:13,2019-06-25 12:21:13,0.001s,PASSED
+"flag = verifyNotEqual(""a"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:21:13,2019-06-25 12:21:13,0.000s,PASSED
+if (flag == true),Chrome 75.0.3770.100,,2019-06-25 12:21:13,2019-06-25 12:21:13,0.001s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:13,2019-06-25 12:21:15,2.002s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:21:15,2019-06-25 12:21:15,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:15,2019-06-25 12:21:17,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Checkout""))",Chrome 75.0.3770.100,,2019-06-25 12:21:17,2019-06-25 12:21:19,1.834s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:19,2019-06-25 12:21:21,2.005s,PASSED
+"callTestCase(findTestCase(""CALL- CUSTOMER INFO PAGE""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:21:21,2019-06-25 12:21:34,13.273s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:34,2019-06-25 12:21:36,2.001s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:21:36,2019-06-25 12:21:36,0.001s,NOT_RUN
+"click(findTestObject(""APOLLO- Desktop/Customer Information page/Continue to shipping""))",Chrome 75.0.3770.100,,2019-06-25 12:21:36,2019-06-25 12:21:38,1.681s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:21:38,2019-06-25 12:21:39,1.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Shipping page/Radio button check""))",Chrome 75.0.3770.100,,2019-06-25 12:21:39,2019-06-25 12:21:40,0.568s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:21:40,2019-06-25 12:21:40,0.001s,NOT_RUN
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:21:40,2019-06-25 12:21:41,1.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Shipping page/Continue to payment""))",Chrome 75.0.3770.100,,2019-06-25 12:21:41,2019-06-25 12:21:43,2.415s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:21:43,2019-06-25 12:21:44,1.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/payment page/Payment section""))",Chrome 75.0.3770.100,,2019-06-25 12:21:44,2019-06-25 12:21:44,0.045s,PASSED
+,,,,,,
+Test Cases/CRITICAL PATH/Increase quantity - Cart flyout,Chrome 75.0.3770.100,,2019-06-25 12:21:44,2019-06-25 12:22:43,58.768s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:21:44,2019-06-25 12:21:48,3.989s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:21:48,2019-06-25 12:21:49,1.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:21:49,2019-06-25 12:21:49,0.078s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:49,2019-06-25 12:21:51,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:21:51,2019-06-25 12:21:51,0.053s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:51,2019-06-25 12:21:53,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:21:53,2019-06-25 12:21:53,0.057s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:53,2019-06-25 12:21:55,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:21:55,2019-06-25 12:21:57,1.521s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:21:57,2019-06-25 12:21:57,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:21:57,2019-06-25 12:21:59,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Blue shirt product""))",Chrome 75.0.3770.100,,2019-06-25 12:21:59,2019-06-25 12:22:00,1.119s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:00,2019-06-25 12:22:02,2.004s,PASSED
+"selectOptionByValue(findTestObject(""APOLLO- Desktop/Product page/Size dropdown""), ""Medium"", true)",Chrome 75.0.3770.100,,2019-06-25 12:22:02,2019-06-25 12:22:02,0.135s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:02,2019-06-25 12:22:04,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:22:04,2019-06-25 12:22:04,0.056s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:04,2019-06-25 12:22:06,2.002s,PASSED
+"a = getText(findTestObject(""APOLLO- Desktop/Cart flyout/Subtotal in cart flyout""))",Chrome 75.0.3770.100,,2019-06-25 12:22:06,2019-06-25 12:22:06,0.034s,PASSED
+"comment(""a="" + a)",Chrome 75.0.3770.100,,2019-06-25 12:22:06,2019-06-25 12:22:06,0.000s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:06,2019-06-25 12:22:08,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Increase quantity - cart flyout""))",Chrome 75.0.3770.100,,2019-06-25 12:22:08,2019-06-25 12:22:08,0.062s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:08,2019-06-25 12:22:10,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Increase quantity - cart flyout""))",Chrome 75.0.3770.100,,2019-06-25 12:22:10,2019-06-25 12:22:10,0.045s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:10,2019-06-25 12:22:12,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/random/Page_Apollo - Dark  Diff Apollo/CArt quanty update""))",Chrome 75.0.3770.100,,2019-06-25 12:22:12,2019-06-25 12:22:12,0.060s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:12,2019-06-25 12:22:14,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/random/Page_Apollo - Dark  Diff Apollo/td_Wool Sweater""))",Chrome 75.0.3770.100,,2019-06-25 12:22:14,2019-06-25 12:22:14,0.053s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:14,2019-06-25 12:22:16,2.011s,PASSED
+"b = getText(findTestObject(""APOLLO- Desktop/Cart flyout/Subtotal in cart flyout""))",Chrome 75.0.3770.100,,2019-06-25 12:22:16,2019-06-25 12:22:16,0.020s,PASSED
+"comment(""b="" + b)",Chrome 75.0.3770.100,,2019-06-25 12:22:16,2019-06-25 12:22:16,0.000s,PASSED
+"flag = verifyNotEqual(""a"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:22:16,2019-06-25 12:22:16,0.000s,PASSED
+if (flag == true),Chrome 75.0.3770.100,,2019-06-25 12:22:16,2019-06-25 12:22:16,0.001s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:16,2019-06-25 12:22:19,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Checkout""))",Chrome 75.0.3770.100,,2019-06-25 12:22:19,2019-06-25 12:22:20,1.858s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:20,2019-06-25 12:22:22,2.002s,PASSED
+"callTestCase(findTestCase(""CALL- CUSTOMER INFO PAGE""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:22:22,2019-06-25 12:22:36,13.362s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:36,2019-06-25 12:22:38,2.007s,PASSED
+"callTestCase(findTestCase(""CALL - SHIPPING TO PAYMENT""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:22:38,2019-06-25 12:22:43,5.080s,PASSED
+,,,,,,
+Test Cases/CRITICAL PATH/Adding diff prods to cart,Chrome 75.0.3770.100,,2019-06-25 12:22:43,2019-06-25 12:24:13,1m - 30.378s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:22:43,2019-06-25 12:22:47,4.063s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:22:47,2019-06-25 12:22:47,0.149s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:47,2019-06-25 12:22:49,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:22:49,2019-06-25 12:22:49,0.060s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:49,2019-06-25 12:22:51,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:22:51,2019-06-25 12:22:51,0.055s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:51,2019-06-25 12:22:53,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:22:53,2019-06-25 12:22:55,1.303s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:22:55,2019-06-25 12:22:55,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:55,2019-06-25 12:22:57,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Blue shirt product""))",Chrome 75.0.3770.100,,2019-06-25 12:22:57,2019-06-25 12:22:58,1.335s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:22:58,2019-06-25 12:22:58,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:22:58,2019-06-25 12:23:00,2.006s,PASSED
+"selectOptionByValue(findTestObject(""APOLLO- Desktop/Product page/Size dropdown""), ""Medium"", true)",Chrome 75.0.3770.100,,2019-06-25 12:23:00,2019-06-25 12:23:00,0.140s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:00,2019-06-25 12:23:02,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:23:02,2019-06-25 12:23:02,0.054s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:02,2019-06-25 12:23:04,2.010s,PASSED
+"selectOptionByValue(findTestObject(""APOLLO- Desktop/Product page/Size dropdown""), ""Large"", true)",Chrome 75.0.3770.100,,2019-06-25 12:23:04,2019-06-25 12:23:04,0.134s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:04,2019-06-25 12:23:06,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:23:06,2019-06-25 12:23:06,0.040s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:06,2019-06-25 12:23:08,2.003s,PASSED
+"selectOptionByValue(findTestObject(""APOLLO- Desktop/Product page/Size dropdown""), ""Extra Large"", true)",Chrome 75.0.3770.100,,2019-06-25 12:23:08,2019-06-25 12:23:08,0.141s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:08,2019-06-25 12:23:10,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:23:10,2019-06-25 12:23:10,0.047s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:10,2019-06-25 12:23:12,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:23:12,2019-06-25 12:23:13,0.053s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:13,2019-06-25 12:23:15,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/KIds link""))",Chrome 75.0.3770.100,,2019-06-25 12:23:15,2019-06-25 12:23:18,3.249s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:18,2019-06-25 12:23:20,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Sailor sweatshirt""))",Chrome 75.0.3770.100,,2019-06-25 12:23:20,2019-06-25 12:23:22,2.335s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:22,2019-06-25 12:23:24,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:23:24,2019-06-25 12:23:24,0.060s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:24,2019-06-25 12:23:26,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:23:26,2019-06-25 12:23:26,0.059s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:26,2019-06-25 12:23:28,2.011s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Women link""))",Chrome 75.0.3770.100,,2019-06-25 12:23:28,2019-06-25 12:23:28,0.063s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:28,2019-06-25 12:23:30,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Jackets - Coats""))",Chrome 75.0.3770.100,,2019-06-25 12:23:30,2019-06-25 12:23:34,3.356s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:34,2019-06-25 12:23:36,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Womens long nude winter coat""))",Chrome 75.0.3770.100,,2019-06-25 12:23:36,2019-06-25 12:23:39,3.523s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:39,2019-06-25 12:23:41,2.003s,PASSED
+"selectOptionByValue(findTestObject(""APOLLO- Desktop/Product page/Size dropdown""), ""Small"", true)",Chrome 75.0.3770.100,,2019-06-25 12:23:41,2019-06-25 12:23:41,0.096s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:41,2019-06-25 12:23:43,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:23:43,2019-06-25 12:23:43,0.055s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:23:43,2019-06-25 12:23:45,2.011s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:23:45,2019-06-25 12:23:45,0.000s,NOT_RUN
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Checkout""))",Chrome 75.0.3770.100,,2019-06-25 12:23:45,2019-06-25 12:23:54,8.776s,PASSED
+"callTestCase(findTestCase(""CALL- CUSTOMER INFO PAGE""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:23:54,2019-06-25 12:24:07,13.299s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Customer Information page/Continue to shipping""))",Chrome 75.0.3770.100,,2019-06-25 12:24:07,2019-06-25 12:24:09,1.914s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:24:09,2019-06-25 12:24:09,0.000s,NOT_RUN
+"click(findTestObject(""APOLLO- Desktop/Shipping page/Radio button check""))",Chrome 75.0.3770.100,,2019-06-25 12:24:09,2019-06-25 12:24:11,1.596s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:24:11,2019-06-25 12:24:11,0.000s,NOT_RUN
+"click(findTestObject(""APOLLO- Desktop/Shipping page/Continue to payment""))",Chrome 75.0.3770.100,,2019-06-25 12:24:11,2019-06-25 12:24:13,2.092s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:24:13,2019-06-25 12:24:13,0.000s,NOT_RUN
+"click(findTestObject(""APOLLO- Desktop/payment page/Payment section""))",Chrome 75.0.3770.100,,2019-06-25 12:24:13,2019-06-25 12:24:13,0.123s,PASSED
+,,,,,,
+Test Cases/CRITICAL PATH/Price comparison - cart page,Chrome 75.0.3770.100,,2019-06-25 12:24:13,2019-06-25 12:25:18,1m - 4.314s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:24:14,2019-06-25 12:24:17,3.938s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:24:17,2019-06-25 12:24:18,0.087s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:24:18,2019-06-25 12:24:20,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:24:20,2019-06-25 12:24:20,0.079s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:24:20,2019-06-25 12:24:22,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:24:22,2019-06-25 12:24:22,0.067s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:24:22,2019-06-25 12:24:24,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:24:24,2019-06-25 12:24:26,2.019s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:24:26,2019-06-25 12:24:28,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Blue shirt product""))",Chrome 75.0.3770.100,,2019-06-25 12:24:28,2019-06-25 12:24:29,1.256s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:24:29,2019-06-25 12:24:31,2.006s,PASSED
+"selectOptionByValue(findTestObject(""APOLLO- Desktop/Product page/Size dropdown""), ""Medium"", true)",Chrome 75.0.3770.100,,2019-06-25 12:24:31,2019-06-25 12:24:31,0.169s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:24:31,2019-06-25 12:24:33,2.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:24:33,2019-06-25 12:24:33,0.059s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:24:33,2019-06-25 12:24:35,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:24:35,2019-06-25 12:24:35,0.056s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:24:35,2019-06-25 12:24:37,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/KIds link""))",Chrome 75.0.3770.100,,2019-06-25 12:24:37,2019-06-25 12:24:40,2.409s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:24:40,2019-06-25 12:24:42,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Sailor sweatshirt""))",Chrome 75.0.3770.100,,2019-06-25 12:24:42,2019-06-25 12:24:44,2.402s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:24:44,2019-06-25 12:24:46,2.015s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:24:46,2019-06-25 12:24:46,0.049s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:24:46,2019-06-25 12:24:48,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Checkout""))",Chrome 75.0.3770.100,,2019-06-25 12:24:48,2019-06-25 12:24:51,2.941s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:24:51,2019-06-25 12:24:53,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Customer Information page/Cart page breadcrumb""))",Chrome 75.0.3770.100,,2019-06-25 12:24:53,2019-06-25 12:24:55,1.707s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:24:55,2019-06-25 12:24:57,2.009s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.000s,NOT_RUN
+"a = getText(findTestObject(""APOLLO- Desktop/Cart page/Unit price - 1st product""))",Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.038s,PASSED
+"comment(""a="" + a)",Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.000s,PASSED
+a1 = a.substring(1),Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.001s,PASSED
+"comment(""a1="" + a1)",Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.000s,PASSED
+"b = getText(findTestObject(""APOLLO- Desktop/Cart page/Unit price - 2nd product""))",Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.031s,PASSED
+"comment(""b="" + b)",Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.001s,PASSED
+b1 = b.substring(1),Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.000s,PASSED
+"comment(""b1="" + b1)",Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.000s,PASSED
+p1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.000s,PASSED
+p2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.000s,PASSED
+try,Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.004s,PASSED
+try,Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.001s,PASSED
+total = p1 + p2,Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.000s,PASSED
+"comment(""total="" + total)",Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.001s,PASSED
+"c = getText(findTestObject(""APOLLO- Desktop/Cart page/Subtotal in cart page""))",Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.022s,PASSED
+"comment(""c="" + c)",Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.000s,PASSED
+c1 = c.substring(1),Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.001s,PASSED
+"comment(""c1="" + c1)",Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.000s,PASSED
+p3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.000s,PASSED
+try,Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.001s,PASSED
+"verifyEqual(total, p3)",Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:57,0.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Checkout""))",Chrome 75.0.3770.100,,2019-06-25 12:24:57,2019-06-25 12:24:59,1.656s,PASSED
+"callTestCase(findTestCase(""CALL- CUSTOMER INFO PAGE""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:24:59,2019-06-25 12:25:12,13.207s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Customer Information page/Continue to shipping""))",Chrome 75.0.3770.100,,2019-06-25 12:25:12,2019-06-25 12:25:14,1.762s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:25:14,2019-06-25 12:25:14,0.000s,NOT_RUN
+"click(findTestObject(""APOLLO- Desktop/Shipping page/Radio button check""))",Chrome 75.0.3770.100,,2019-06-25 12:25:14,2019-06-25 12:25:15,1.598s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:25:15,2019-06-25 12:25:15,0.000s,NOT_RUN
+"click(findTestObject(""APOLLO- Desktop/Shipping page/Continue to payment""))",Chrome 75.0.3770.100,,2019-06-25 12:25:15,2019-06-25 12:25:17,2.165s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:25:17,2019-06-25 12:25:17,0.000s,NOT_RUN
+"click(findTestObject(""APOLLO- Desktop/payment page/Payment section""))",Chrome 75.0.3770.100,,2019-06-25 12:25:17,2019-06-25 12:25:18,0.174s,PASSED
+,,,,,,
+Test Cases/CRITICAL PATH/Decrease quantity - cart page,Chrome 75.0.3770.100,,2019-06-25 12:25:18,2019-06-25 12:26:41,1m - 23.149s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:25:18,2019-06-25 12:25:22,3.936s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:25:22,2019-06-25 12:25:23,1.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:25:23,2019-06-25 12:25:23,0.061s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:23,2019-06-25 12:25:25,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:25:25,2019-06-25 12:25:25,0.073s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:25,2019-06-25 12:25:27,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:25:27,2019-06-25 12:25:27,0.066s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:27,2019-06-25 12:25:29,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:25:29,2019-06-25 12:25:30,0.933s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:25:30,2019-06-25 12:25:30,0.001s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:30,2019-06-25 12:25:32,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Blue shirt product""))",Chrome 75.0.3770.100,,2019-06-25 12:25:32,2019-06-25 12:25:33,1.266s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:33,2019-06-25 12:25:35,2.001s,PASSED
+"selectOptionByValue(findTestObject(""APOLLO- Desktop/Product page/Size dropdown""), ""Medium"", true)",Chrome 75.0.3770.100,,2019-06-25 12:25:35,2019-06-25 12:25:35,0.138s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:35,2019-06-25 12:25:37,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Increase qunatity - prod page""))",Chrome 75.0.3770.100,,2019-06-25 12:25:37,2019-06-25 12:25:37,0.061s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:37,2019-06-25 12:25:39,2.012s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Increase qunatity - prod page""))",Chrome 75.0.3770.100,,2019-06-25 12:25:39,2019-06-25 12:25:39,0.033s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:39,2019-06-25 12:25:41,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Increase qunatity - prod page""))",Chrome 75.0.3770.100,,2019-06-25 12:25:41,2019-06-25 12:25:41,0.032s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:41,2019-06-25 12:25:43,2.009s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Increase qunatity - prod page""))",Chrome 75.0.3770.100,,2019-06-25 12:25:43,2019-06-25 12:25:43,0.034s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:43,2019-06-25 12:25:45,2.011s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Increase qunatity - prod page""))",Chrome 75.0.3770.100,,2019-06-25 12:25:45,2019-06-25 12:25:45,0.032s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:45,2019-06-25 12:25:47,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:25:47,2019-06-25 12:25:47,0.050s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:47,2019-06-25 12:25:49,2.003s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:49,2019-06-25 12:25:51,2.018s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Checkout""))",Chrome 75.0.3770.100,,2019-06-25 12:25:51,2019-06-25 12:25:54,2.272s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:54,2019-06-25 12:25:56,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Customer Information page/Cart page breadcrumb""))",Chrome 75.0.3770.100,,2019-06-25 12:25:56,2019-06-25 12:25:57,1.629s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:25:57,2019-06-25 12:25:57,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:57,2019-06-25 12:25:59,2.002s,PASSED
+"a = getText(findTestObject(""APOLLO- Desktop/Cart page/Subtotal in cart page""))",Chrome 75.0.3770.100,,2019-06-25 12:25:59,2019-06-25 12:25:59,0.029s,PASSED
+"comment(""a="" + a)",Chrome 75.0.3770.100,,2019-06-25 12:25:59,2019-06-25 12:25:59,0.001s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:25:59,2019-06-25 12:26:01,2.000s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart page/Decrease quantity - cart page""))",Chrome 75.0.3770.100,,2019-06-25 12:26:01,2019-06-25 12:26:01,0.059s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:26:01,2019-06-25 12:26:03,2.011s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart page/Decrease quantity - cart page""))",Chrome 75.0.3770.100,,2019-06-25 12:26:03,2019-06-25 12:26:04,0.041s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:26:04,2019-06-25 12:26:06,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart page/Decrease quantity - cart page""))",Chrome 75.0.3770.100,,2019-06-25 12:26:06,2019-06-25 12:26:06,0.044s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:26:06,2019-06-25 12:26:08,2.007s,PASSED
+"setText(findTestObject(""APOLLO- Desktop/Cart flyout/CArt quanty update""), ""1"")",Chrome 75.0.3770.100,,2019-06-25 12:26:08,2019-06-25 12:26:08,0.109s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:26:08,2019-06-25 12:26:10,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart page/Click outside the page""))",Chrome 75.0.3770.100,,2019-06-25 12:26:10,2019-06-25 12:26:10,0.050s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:26:10,2019-06-25 12:26:12,2.002s,PASSED
+"b = getText(findTestObject(""APOLLO- Desktop/Cart page/Subtotal in cart page""))",Chrome 75.0.3770.100,,2019-06-25 12:26:12,2019-06-25 12:26:12,0.027s,PASSED
+"comment(""b="" + b)",Chrome 75.0.3770.100,,2019-06-25 12:26:12,2019-06-25 12:26:12,0.000s,PASSED
+"verifyNotEqual(""a"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:26:12,2019-06-25 12:26:12,0.000s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:26:12,2019-06-25 12:26:14,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Checkout""))",Chrome 75.0.3770.100,,2019-06-25 12:26:14,2019-06-25 12:26:16,2.393s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:26:16,2019-06-25 12:26:18,2.005s,PASSED
+"callTestCase(findTestCase(""CALL- CUSTOMER INFO PAGE""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:26:18,2019-06-25 12:26:31,13.173s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:26:31,2019-06-25 12:26:33,2.004s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:26:33,2019-06-25 12:26:33,0.001s,NOT_RUN
+"click(findTestObject(""APOLLO- Desktop/Customer Information page/Continue to shipping""))",Chrome 75.0.3770.100,,2019-06-25 12:26:33,2019-06-25 12:26:35,1.601s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:26:35,2019-06-25 12:26:36,1.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Shipping page/Radio button check""))",Chrome 75.0.3770.100,,2019-06-25 12:26:36,2019-06-25 12:26:37,0.570s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:26:37,2019-06-25 12:26:37,0.000s,NOT_RUN
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:26:37,2019-06-25 12:26:38,1.005s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Shipping page/Continue to payment""))",Chrome 75.0.3770.100,,2019-06-25 12:26:38,2019-06-25 12:26:40,2.083s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:26:40,2019-06-25 12:26:41,1.011s,PASSED
+"click(findTestObject(""APOLLO- Desktop/payment page/Payment section""))",Chrome 75.0.3770.100,,2019-06-25 12:26:41,2019-06-25 12:26:41,0.048s,PASSED
+,,,,,,
+Test Cases/CRITICAL PATH/Adding product - Search flyout,Chrome 75.0.3770.100,,2019-06-25 12:26:41,2019-06-25 12:26:50,9.760s,FAILED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:26:41,2019-06-25 12:26:45,3.925s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:26:45,2019-06-25 12:26:47,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Search input""))",Chrome 75.0.3770.100,,2019-06-25 12:26:47,2019-06-25 12:26:47,0.092s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:26:47,2019-06-25 12:26:48,1.008s,PASSED
+"setText(findTestObject(""APOLLO- Desktop/Home page/Search input box to enter""), ""jacket"")",Chrome 75.0.3770.100,,2019-06-25 12:26:48,2019-06-25 12:26:48,0.120s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:26:48,2019-06-25 12:26:49,1.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/2nd product - search flyout""))",Chrome 75.0.3770.100,,2019-06-25 12:26:49,2019-06-25 12:26:50,1.536s,FAILED
+,,,,,,
+Test Cases/CRITICAL PATH/Adding product - home page,Chrome 75.0.3770.100,,2019-06-25 12:26:50,2019-06-25 12:27:31,40.608s,FAILED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:26:51,2019-06-25 12:26:54,3.909s,PASSED
+"scrollToElement(findTestObject(""APOLLO- Desktop/Home page/OUTER WEAR - TILES - Copy""), 0)",Chrome 75.0.3770.100,,2019-06-25 12:26:54,2019-06-25 12:26:54,0.034s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:26:54,2019-06-25 12:26:55,1.004s,PASSED
+"mouseOver(findTestObject(""APOLLO- Desktop/Home page/OUTER WEAR - TILES""))",Chrome 75.0.3770.100,,2019-06-25 12:26:55,2019-06-25 12:26:56,0.054s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:26:56,2019-06-25 12:26:57,1.015s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Shop mens outer wear -button""))",Chrome 75.0.3770.100,,2019-06-25 12:26:57,2019-06-25 12:26:58,1.624s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:26:58,2019-06-25 12:26:59,1.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Lenin jacket""))",Chrome 75.0.3770.100,,2019-06-25 12:26:59,2019-06-25 12:27:31,31.868s,FAILED
+,,,,,,
+Test Cases/CRITICAL PATH/Login and logout,Chrome 75.0.3770.100,,2019-06-25 12:27:31,2019-06-25 12:27:53,21.597s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:27:31,2019-06-25 12:27:35,3.835s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:27:35,2019-06-25 12:27:36,1.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Account icon""))",Chrome 75.0.3770.100,,2019-06-25 12:27:36,2019-06-25 12:27:37,1.096s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:27:37,2019-06-25 12:27:38,1.005s,PASSED
+"setText(findTestObject(""APOLLO- Desktop/Home page/Email address""), ""suman.kompelly@diffagency.com"")",Chrome 75.0.3770.100,,2019-06-25 12:27:38,2019-06-25 12:27:38,0.189s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:27:38,2019-06-25 12:27:39,1.007s,PASSED
+"setEncryptedText(findTestObject(""APOLLO- Desktop/Home page/Password""), ""YVtWHtdGuqHfOZKsa+65Fg=="")",Chrome 75.0.3770.100,,2019-06-25 12:27:39,2019-06-25 12:27:39,0.160s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:27:39,2019-06-25 12:27:40,1.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Sign in button""))",Chrome 75.0.3770.100,,2019-06-25 12:27:40,2019-06-25 12:27:42,1.332s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:27:42,2019-06-25 12:27:43,1.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/address page""))",Chrome 75.0.3770.100,,2019-06-25 12:27:43,2019-06-25 12:27:45,1.883s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:27:45,2019-06-25 12:27:46,1.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/orders page""))",Chrome 75.0.3770.100,,2019-06-25 12:27:46,2019-06-25 12:27:47,1.331s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:27:47,2019-06-25 12:27:48,1.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Details page""))",Chrome 75.0.3770.100,,2019-06-25 12:27:48,2019-06-25 12:27:49,0.682s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:27:49,2019-06-25 12:27:50,1.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Home page/Logout""))",Chrome 75.0.3770.100,,2019-06-25 12:27:50,2019-06-25 12:27:53,2.989s,PASSED
+,,,,,,
+Test Cases/CRITICAL PATH/Decrease quantity - Cart flyout,Chrome 75.0.3770.100,,2019-06-25 12:27:53,2019-06-25 12:29:02,1m - 9.801s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:27:53,2019-06-25 12:27:57,3.681s,PASSED
+delay(1),Chrome 75.0.3770.100,,2019-06-25 12:27:57,2019-06-25 12:27:58,1.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:27:58,2019-06-25 12:27:58,0.071s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:27:58,2019-06-25 12:28:00,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:28:00,2019-06-25 12:28:00,0.073s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:00,2019-06-25 12:28:02,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:28:02,2019-06-25 12:28:02,0.074s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:02,2019-06-25 12:28:04,2.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:28:04,2019-06-25 12:28:05,1.203s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:28:05,2019-06-25 12:28:05,0.000s,NOT_RUN
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:05,2019-06-25 12:28:07,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Blue shirt product""))",Chrome 75.0.3770.100,,2019-06-25 12:28:07,2019-06-25 12:28:08,1.133s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:08,2019-06-25 12:28:10,2.004s,PASSED
+"selectOptionByValue(findTestObject(""APOLLO- Desktop/Product page/Size dropdown""), ""Medium"", true)",Chrome 75.0.3770.100,,2019-06-25 12:28:10,2019-06-25 12:28:10,0.157s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:10,2019-06-25 12:28:12,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Increase qunatity - prod page""))",Chrome 75.0.3770.100,,2019-06-25 12:28:12,2019-06-25 12:28:12,0.059s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:12,2019-06-25 12:28:14,2.011s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Increase qunatity - prod page""))",Chrome 75.0.3770.100,,2019-06-25 12:28:14,2019-06-25 12:28:14,0.034s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:14,2019-06-25 12:28:16,2.002s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Increase qunatity - prod page""))",Chrome 75.0.3770.100,,2019-06-25 12:28:16,2019-06-25 12:28:16,0.037s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:16,2019-06-25 12:28:18,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Increase qunatity - prod page""))",Chrome 75.0.3770.100,,2019-06-25 12:28:18,2019-06-25 12:28:18,0.036s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:18,2019-06-25 12:28:21,2.016s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Increase qunatity - prod page""))",Chrome 75.0.3770.100,,2019-06-25 12:28:21,2019-06-25 12:28:21,0.038s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:21,2019-06-25 12:28:23,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:28:23,2019-06-25 12:28:23,0.066s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:23,2019-06-25 12:28:25,2.009s,PASSED
+"a = getText(findTestObject(""APOLLO- Desktop/Cart flyout/Subtotal in cart flyout""))",Chrome 75.0.3770.100,,2019-06-25 12:28:25,2019-06-25 12:28:25,0.035s,PASSED
+"comment(""a="" + a)",Chrome 75.0.3770.100,,2019-06-25 12:28:25,2019-06-25 12:28:25,0.000s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:25,2019-06-25 12:28:27,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Decrease quantity - cart flyout""))",Chrome 75.0.3770.100,,2019-06-25 12:28:27,2019-06-25 12:28:27,0.057s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:27,2019-06-25 12:28:29,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Decrease quantity - cart flyout""))",Chrome 75.0.3770.100,,2019-06-25 12:28:29,2019-06-25 12:28:29,0.042s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:29,2019-06-25 12:28:31,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Decrease quantity - cart flyout""))",Chrome 75.0.3770.100,,2019-06-25 12:28:31,2019-06-25 12:28:31,0.042s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:31,2019-06-25 12:28:33,2.005s,PASSED
+"b = getText(findTestObject(""APOLLO- Desktop/Cart flyout/Subtotal in cart flyout""))",Chrome 75.0.3770.100,,2019-06-25 12:28:33,2019-06-25 12:28:33,0.020s,PASSED
+"comment(""b="" + b)",Chrome 75.0.3770.100,,2019-06-25 12:28:33,2019-06-25 12:28:33,0.000s,PASSED
+"verifyNotEqual(""a"", ""b"")",Chrome 75.0.3770.100,,2019-06-25 12:28:33,2019-06-25 12:28:33,0.000s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:33,2019-06-25 12:28:35,2.011s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Checkout""))",Chrome 75.0.3770.100,,2019-06-25 12:28:35,2019-06-25 12:28:38,2.754s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:38,2019-06-25 12:28:40,2.005s,PASSED
+"callTestCase(findTestCase(""CALL- CUSTOMER INFO PAGE""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:28:40,2019-06-25 12:28:53,13.330s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:28:53,2019-06-25 12:28:55,2.001s,PASSED
+"callTestCase(findTestCase(""CALL - SHIPPING TO PAYMENT""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:28:55,2019-06-25 12:29:02,7.510s,PASSED
+,,,,,,
+Test Cases/CRITICAL PATH/Price comparison - Cart flyout,Chrome 75.0.3770.100,,2019-06-25 12:29:02,2019-06-25 12:29:56,53.421s,PASSED
+"callTestCase(findTestCase(""CALL - URL""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:29:03,2019-06-25 12:29:07,4.246s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:29:07,2019-06-25 12:29:07,0.401s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:29:07,2019-06-25 12:29:09,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:29:09,2019-06-25 12:29:09,0.059s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:29:09,2019-06-25 12:29:11,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Mens - Top Chevron""))",Chrome 75.0.3770.100,,2019-06-25 12:29:11,2019-06-25 12:29:11,0.057s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:29:11,2019-06-25 12:29:13,2.007s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Shirts link""))",Chrome 75.0.3770.100,,2019-06-25 12:29:13,2019-06-25 12:29:14,0.693s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:29:14,2019-06-25 12:29:16,2.010s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Blue shirt product""))",Chrome 75.0.3770.100,,2019-06-25 12:29:16,2019-06-25 12:29:17,0.927s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:29:17,2019-06-25 12:29:19,2.005s,PASSED
+"selectOptionByValue(findTestObject(""APOLLO- Desktop/Product page/Size dropdown""), ""Medium"", true)",Chrome 75.0.3770.100,,2019-06-25 12:29:19,2019-06-25 12:29:19,0.141s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:29:19,2019-06-25 12:29:21,2.018s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:29:21,2019-06-25 12:29:21,0.054s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:29:21,2019-06-25 12:29:23,2.004s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/Burgermenu""))",Chrome 75.0.3770.100,,2019-06-25 12:29:23,2019-06-25 12:29:23,0.054s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:29:23,2019-06-25 12:29:25,2.006s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Burger Menu/KIds link""))",Chrome 75.0.3770.100,,2019-06-25 12:29:25,2019-06-25 12:29:26,0.569s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:29:26,2019-06-25 12:29:28,2.003s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Collection page/Sailor sweatshirt""))",Chrome 75.0.3770.100,,2019-06-25 12:29:28,2019-06-25 12:29:29,1.274s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:29:29,2019-06-25 12:29:31,2.008s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Product page/Add to bag""))",Chrome 75.0.3770.100,,2019-06-25 12:29:31,2019-06-25 12:29:31,0.054s,PASSED
+delay(2),Chrome 75.0.3770.100,,2019-06-25 12:29:31,2019-06-25 12:29:33,2.001s,PASSED
+"executeJavaScript(""var previewBar = document.getElementById(""preview-bar-iframe""); previewBar.style.display = ""none"";"", [])",Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.001s,NOT_RUN
+"a = getText(findTestObject(""APOLLO- Desktop/Cart flyout/Unit price - first product""))",Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.032s,PASSED
+"comment(""a="" + a)",Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.000s,PASSED
+a1 = a.substring(1),Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.000s,PASSED
+"comment(""a1="" + a1)",Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.000s,PASSED
+"b = getText(findTestObject(""APOLLO- Desktop/Cart flyout/Unit price - second product""))",Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.024s,PASSED
+"comment(""b="" + b)",Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.001s,PASSED
+b1 = b.substring(1),Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.000s,PASSED
+"comment(""b1="" + b1)",Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.000s,PASSED
+p1 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.000s,PASSED
+p2 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.001s,PASSED
+try,Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.001s,PASSED
+try,Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.002s,PASSED
+total = p1 + p2,Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.000s,PASSED
+"comment(""total="" + total)",Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.000s,PASSED
+"c = getText(findTestObject(""APOLLO- Desktop/Cart flyout/Subtotal in cart flyout""))",Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.033s,PASSED
+"comment(""c="" + c)",Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.001s,PASSED
+c1 = c.substring(1),Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.000s,PASSED
+"comment(""c1="" + c1)",Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.000s,PASSED
+p3 = <not implemented yet for class: org.codehaus.groovy.ast.expr.EmptyExpression>,Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.000s,PASSED
+try,Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.001s,PASSED
+"verifyEqual(total, p3)",Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:33,0.001s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Cart flyout/Checkout""))",Chrome 75.0.3770.100,,2019-06-25 12:29:33,2019-06-25 12:29:36,2.512s,PASSED
+"callTestCase(findTestCase(""CALL- CUSTOMER INFO PAGE""), [:], STOP_ON_FAILURE)",Chrome 75.0.3770.100,,2019-06-25 12:29:36,2019-06-25 12:29:49,13.352s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Customer Information page/Continue to shipping""))",Chrome 75.0.3770.100,,2019-06-25 12:29:49,2019-06-25 12:29:52,2.439s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Shipping page/Radio button check""))",Chrome 75.0.3770.100,,2019-06-25 12:29:52,2019-06-25 12:29:54,2.103s,PASSED
+"click(findTestObject(""APOLLO- Desktop/Shipping page/Continue to payment""))",Chrome 75.0.3770.100,,2019-06-25 12:29:54,2019-06-25 12:29:56,2.104s,PASSED
+"click(findTestObject(""APOLLO- Desktop/payment page/Payment section""))",Chrome 75.0.3770.100,,2019-06-25 12:29:56,2019-06-25 12:29:56,0.106s,PASSED

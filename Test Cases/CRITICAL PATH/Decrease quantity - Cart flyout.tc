@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Decrease quantity - Cart flyout</name>
+   <tag></tag>
+   <comment>a=&quot; + a
+b=&quot; + b</comment>
+   <testCaseGuid>c5583e0f-36c0-4213-a957-c13daa521c03</testCaseGuid>
+</TestCaseEntity>

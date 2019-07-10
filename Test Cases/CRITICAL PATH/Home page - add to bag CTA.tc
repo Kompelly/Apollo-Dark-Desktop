@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Home page - add to bag CTA</name>
+   <tag></tag>
+   <comment>flag=&quot; + flag
+flag1=&quot; + flag1
+flag2=&quot; + flag2
+flag3=&quot; + flag3</comment>
+   <testCaseGuid>dd7c883a-d3ed-45e0-9516-812ed203cc63</testCaseGuid>
+</TestCaseEntity>
