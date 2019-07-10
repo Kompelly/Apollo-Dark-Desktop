@@ -29,14 +29,14 @@ WebUI.delay(2)
 
 WebUI.click(findTestObject('APOLLO- Desktop/Burger Menu/Shirts link'))
 
-not_run: WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
+WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
     [])
 
 WebUI.delay(2)
 
 WebUI.click(findTestObject('APOLLO- Desktop/Collection page/Blue shirt product'))
 
-not_run: WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
+WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
     [])
 
 WebUI.delay(2)
@@ -105,7 +105,7 @@ WebUI.click(findTestObject('APOLLO- Desktop/Product page/Add to bag'))
 
 WebUI.delay(2)
 
-not_run: WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
+WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
     [])
 
 WebUI.click(findTestObject('APOLLO- Desktop/Cart flyout/Checkout'))
@@ -114,17 +114,17 @@ WebUI.callTestCase(findTestCase('CALL- CUSTOMER INFO PAGE'), [:], FailureHandlin
 
 WebUI.click(findTestObject('APOLLO- Desktop/Customer Information page/Continue to shipping'))
 
-not_run: WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
+WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
     [])
 
 WebUI.click(findTestObject('APOLLO- Desktop/Shipping page/Radio button check'))
 
-not_run: WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
+WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
     [])
 
 WebUI.click(findTestObject('APOLLO- Desktop/Shipping page/Continue to payment'))
 
-not_run: WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
+WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
     [])
 
 WebUI.click(findTestObject('APOLLO- Desktop/payment page/Payment section'))

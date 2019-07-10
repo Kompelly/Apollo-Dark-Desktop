@@ -51,7 +51,7 @@ WebUI.click(findTestObject('APOLLO- Desktop/Product page/Add to bag'))
 
 WebUI.delay(2)
 
-not_run: WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
+WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
     [])
 
 WebUI.click(findTestObject('APOLLO- Desktop/Cart flyout/Checkout'))

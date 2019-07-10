@@ -15,10 +15,10 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://diff-apollo.myshopify.com/?key=eec34184cfd8f82cda816f82753a8c8e9e240f30cf54470e19667b8cbb401948&preview_theme_id=')
-
 not_run: WebUI.executeJavaScript('var previewBar = document.getElementById("preview-bar-iframe"); previewBar.style.display = "none";', 
     [])
 
 WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://diff-apollo.myshopify.com/?_ab=0&_fd=0&_sc=1&preview_theme_id=68640637028')
 
